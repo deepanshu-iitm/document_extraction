@@ -1,0 +1,13 @@
+Experiment 1: Raw Tesseract baseline
+- OCR on original images without preprocessing
+- Overall accuracy: 32.8095
+
+Experiment 2: Improved Tesseract baseline
+- Grayscale conversion
+- 2x image upscaling using OpenCV INTER_CUBIC
+- Tesseract config: --psm 6
+- Overall accuracy: 51.2925
+
+Key observation:
+- Major improvements seen in receipts and scene_text.
+- Degraded and handwritten remain difficult.
