@@ -1,99 +1,21 @@
 Invoice no: 54533510
-
-Date of issue:
-
-Seller:
-
-Tucker Inc
-160 Kaitlin Flat
-Griffithhaven, DC 90675
-
-Tax Id: 925-76-7636
-IBAN: GB15JPFA79210576920492
-
+Date of issue: 02/10/2021
+Seller: Client:
+Tucker Inc Skinner Group
+160 Kaitlin Flat 281 Cameron Alley
+Griffithhaven, DC 90675 East Marktown, CT 76958
+Tax Id: 925-76-7636 Tax Id: 904-87-0658
+IBAN: GB15JPFA/92105/6920492
 ITEMS
-
-No. Description
-
-1. The Key to Rebecca by Ken
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. The Key to Rebecca by Ken 5,00 each oy ily) 25,85 10% 28,44
 Follett
-
-2. Escape from the Carnival of
+Z Escape from the Carnival of 5,00 each 5 01 25,05 10% 27,55
 Horrors (Give Yourself
 Goosebumps) by R. L. Stine
-
-3) Master and God
-
+3. Master and God 1,00 each 7,00 7,00 10% 7,10
 SUMMARY
-
-Total
-
-Qty
-
-5,00
-
-5,00
-
-1,00
-
-VAT [%]
-
-10%
-
-02/10/2021
-
-UM
-
-each
-
-each
-
-each
-
-Client:
-
-Skinner Group
-
-281 Cameron Alley
-
-East Marktown, CT 76958
-
-Tax Id: 904-87-0658
-
-Net price
-
-5,17
-
-5,01
-
-7,00
-
-Net worth
-
-57,90
-
-$ 57,90
-
-Net worth VAT [%]
-25,85 10%
-25,05 10%
-
-7,00 10%
-VAT
-5,79
-$ 5,79
-
-Gross
-worth
-
-28,44
-
-27,55
-
-7,10
-
-Gross worth
-
-63,69
-
-$ 63,69
+VAT [%] Net worth VAT Gross worth
+10% 57,90 5,79 63,69
+Total $ 57,90 $ 5,79 $ 63,69

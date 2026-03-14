@@ -1,136 +1,36 @@
 Invoice no: 28590433
-
-Date of issue:
-
-Seller:
-
-White Group
-14292 Leslie Ford
-Evansview, OK 43757
-
-Tax Id: 903-72-1646
+Date of issue: 09/27/2016
+Seller: Client:
+White Group Hoffman Inc
+14292 Leslie Ford 1478 Carr Lane
+Evansview, OK 43757 Port George, ND 31020
+Tax Id: 903-72-1646 Tax Id: 946-97-0364
 IBAN: GB53YNMK12475568368604
-
 ITEMS
-No. Description Qty
-1. 3D Bottomless Hole Optical 3,00
-
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. 3D Bottomless Hole Optical 3,00 each 13,76 41,28 10% 45,41
 Illusion Area Rug Carpet Sofa
 Door Mats Non-slip Home
-
-2; Yilong 5.6'x8.3' Four Seasons 3,00
+2. Yilong 5.6'x8.3' Four Seasons 3,00 each 2 999,00 8 997,00 10% 9 896,70
 HandKnotted Silk Area Rugs
 Antistatic Carpets 1813
-
-3) 125*150cm/49*59inch Cat Nap 1,00
+3. 125*150cm/49*59inch Cat Nap 1,00 each 39,48 39,48 10% 43,43
 Blanket Tapestry Carpet
 Country Mat Home Decoration
-
-4. New Golden Brown Oriental Rug 4,00
+4. New Golden Brown Oriental Rug 4,00 each 232,65 930,60 10% 1 023,66
 4X6 Oushak Chobi Floral
 Hand-Knotted Foyer Carpet
-
-5. YILONG 4'x6' All over 1,00
+Ds YILONG 4'x6' All over 1,00 each 3 600,00 3 600,00 10% 3 960,00
 Handmade Carpet Dining Room
 Hand Knotted Silk Rugs 082B
-
-6. Egg Bathroom Rug Carpet Area 5,00
+6. Egg Bathroom Rug Carpet Area 5,00 each 68,10 340,50 10% 374,55
 Rugs Rug Floor Mats Nordic Chic
 Room Decor
-
-7. World Map Round Carpets Room 5,00
-
+7. World Map Round Carpets Room 5,00 each 83,78 418,90 10% 460,79
 Printed Area Rug Blue Floor Mat
 Bedroom Play Mat
-
 SUMMARY
-
-VAT [%]
-10%
-
-Total
-
-09/27/2016
-
-UM
-
-each
-
-each
-
-each
-
-each
-
-each
-
-each
-
-each
-
-Client:
-
-Hoffman Inc
-1478 Carr Lane
-
-Port George, ND 31020
-
-Tax Id: 946-97-0364
-
-Net price
-
-13,76
-
-2 999,00
-
-39,48
-
-232,65
-
-3 600,00
-
-68,10
-
-83,78
-
-Net worth
-14 367,76
-
-$ 14 367,76
-
-Net worth VAT [%]
-41,28 10%
-8 997,00 10%
-39,48 10%
-930,60 10%
-3 600,00 10%
-340,50 10%
-418,90 10%
-
-VAT
-
-1 436,78
-
-$1 436,78
-
-Gross
-worth
-
-45,41
-
-9 896,70
-
-43,43
-
-1 023,66
-
-3 960,00
-
-374,55
-
-460,79
-
-Gross worth
-15 804,54
-
-$ 15 804,54
+VAT [%] Net worth VAT Gross worth
+10% 14 367,76 1 436,78 15 804,54
+Total $ 14 367,76 $ 1 436,78 $ 15 804,54

@@ -1,58 +1,18 @@
 Invoice no: 79587541
-
-Date of issue:
-
-Seller:
-
-Baker-Wagner
-
-909 Duarte Drive Apt. 874
-Joelfort, NH 24372
-
-Tax Id: 971-99-0928
-IBAN: GB24KU0P15238222815223
-
+Date of issue: 08/02/2014
+Seller: Client:
+Baker-Wagner Horton, Gillespie and Moore
+909 Duarte Drive Apt. 874 711 Richard Cove Suite 885
+Joelfort, NH 24372 East Mindy, WY 58533
+Tax Id: 971-99-0928 Tax Id: 965-80-2789
+IBAN: GB24KUOP15238222815223
 ITEMS
-No. Description Qty
-1. Bottle tops lid reusable 1,00
-vacuume Sealer stopper flip cap
+No. Description Qty UM Net price Net worth VAT [%] Gross
+worth
+1. Bottle tops lid reusable 1,00 each 9,99 9,99 10% 10,99
+vacuume sealer stopper flip cap
 cork wine beer
 SUMMARY
-VAT [%]
-
-10%
-
-Total
-
-UM
-
-each
-
-08/02/2014
-
-Client:
-
-Horton, Gillespie and Moore
-711 Richard Cove Suite 885
-East Mindy, WY 58533
-
-Tax Id: 965-80-2789
-
-Net price
-
-Net worth VAT [%]
-
-9,99 9,99 10%
-Net worth VAT
-9,99 1,00
-$ 9,99 $ 1,00
-
-Gross
-worth
-
-10,99
-
-Gross worth
-10,99
-
-$ 10,99
+VAT [%] Net worth VAT Gross worth
+10% 9,99 1,00 10,99
+Total $ 9,99 $ 1,00 $ 10,99

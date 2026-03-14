@@ -1,7 +1,6 @@
 from pathlib import Path
 import pandas as pd
-from PIL import Image
-import pytesseract
+from ocr_utils import extract_text_tesseract
 from tqdm import tqdm
 
 from evaluate import compute_cer, compute_wer, compute_accuracy
@@ -21,9 +20,7 @@ GROUPS = [
 
 
 def extract_text_from_image(image_path):
-    image = Image.open(image_path)
-    text = pytesseract.image_to_string(image, lang="eng")
-    return text
+    return extract_text_tesseract(image_path)
 
 
 def read_text_file(txt_path):

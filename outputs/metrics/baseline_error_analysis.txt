@@ -1,25 +1,25 @@
 === GROUP-WISE SUMMARY ===
                   cer       wer   accuracy
 group                                     
-dense_text   0.408035  0.574876  50.854463
-printed      0.452409  0.630435  45.857778
-receipts     0.634287  0.775264  29.522444
-degraded     0.650164  0.778542  28.564706
-scene_text   0.733333  0.833333  21.666667
-handwritten  0.610702  0.981481  20.390845
+receipts     0.089542  0.162524  87.396706
+scene_text   0.266667  0.500000  61.666667
+dense_text   0.373877  0.558979  53.357232
+printed      0.434628  0.601487  48.194224
+degraded     0.607868  0.758683  31.672454
+handwritten  0.556784  0.933862  25.467675
 
 === TOP 5 BEST SAMPLES ===
-     group       image_file   accuracy      cer      wer
-scene_text    scene_005.png 100.000000 0.000000 0.000000
-   printed  printed_000.png  80.201660 0.138614 0.257353
-  degraded degraded_000.png  76.287776 0.150715 0.323529
-dense_text    dense_002.png  73.789110 0.161010 0.363208
-dense_text    dense_000.png  69.568251 0.212239 0.396396
+     group      image_file   accuracy      cer      wer
+scene_text   scene_000.png 100.000000 0.000000 0.000000
+scene_text   scene_002.png 100.000000 0.000000 0.000000
+scene_text   scene_005.png 100.000000 0.000000 0.000000
+  receipts receipt_000.png  95.360608 0.033264 0.059524
+  receipts receipt_001.png  93.905392 0.042945 0.078947
 
 === TOP 5 WORST SAMPLES ===
-     group       image_file  accuracy  cer  wer
-  degraded degraded_001.png       0.0  1.0  1.0
-  degraded degraded_005.png       0.0  1.0  1.0
-scene_text    scene_000.png       0.0  1.0  1.0
-scene_text    scene_001.png       0.0  1.0  1.0
-scene_text    scene_004.png       0.0  1.0  1.0
+      group          image_file  accuracy      cer      wer
+handwritten handwritten_005.png  0.000000 1.000000 1.000000
+   degraded    degraded_001.png  1.210727 0.980191 0.995595
+   degraded    degraded_005.png  7.631438 0.863676 0.983696
+   degraded    degraded_003.png  8.691063 0.826179 1.000000
+    printed     printed_003.png 11.901268 0.783251 0.978723
