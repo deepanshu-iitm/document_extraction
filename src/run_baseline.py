@@ -75,6 +75,8 @@ def main():
                     "image_file": image_path.name,
                     "ground_truth_file": gt_path.name,
                     "prediction_file": str(prediction_output_path),
+                    "prediction_text": prediction,
+                    "reference_text": reference,
                     "cer": cer_value,
                     "wer": wer_value,
                     "accuracy": accuracy_value,
