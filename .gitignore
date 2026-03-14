@@ -21,9 +21,9 @@ Thumbs.db
 *.log
 outputs/logs/
 
-# Generated predictions and metrics
-outputs/predictions/
-outputs/metrics/
+# # Generated predictions and metrics
+# outputs/predictions/
+# outputs/metrics/
 
 # Python packaging
 build/
