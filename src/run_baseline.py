@@ -19,8 +19,8 @@ GROUPS = [
 ]
 
 
-def extract_text_from_image(image_path):
-    return extract_text_tesseract(image_path)
+def extract_text_from_image(image_path, group):
+    return extract_text_tesseract(image_path, group_name=group)
 
 
 def read_text_file(txt_path):
@@ -56,7 +56,7 @@ def main():
                 print(f"WARNING: Missing ground truth for {image_path.name}")
                 continue
 
-            prediction = extract_text_from_image(image_path)
+            prediction = extract_text_from_image(image_path, group)
             reference = read_text_file(gt_path)
 
             cer_value = compute_cer(prediction, reference)

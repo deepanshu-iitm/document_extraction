@@ -5,8 +5,8 @@ receipts     0.089542  0.162524  87.396706
 scene_text   0.266667  0.500000  61.666667
 dense_text   0.373877  0.558979  53.357232
 printed      0.434628  0.601487  48.194224
+handwritten  0.390356  0.835979  38.683245
 degraded     0.607868  0.758683  31.672454
-handwritten  0.556784  0.933862  25.467675
 
 === TOP 5 BEST SAMPLES ===
      group      image_file   accuracy      cer      wer
@@ -17,9 +17,9 @@ scene_text   scene_005.png 100.000000 0.000000 0.000000
   receipts receipt_001.png  93.905392 0.042945 0.078947
 
 === TOP 5 WORST SAMPLES ===
-      group          image_file  accuracy      cer      wer
-handwritten handwritten_005.png  0.000000 1.000000 1.000000
-   degraded    degraded_001.png  1.210727 0.980191 0.995595
-   degraded    degraded_005.png  7.631438 0.863676 0.983696
-   degraded    degraded_003.png  8.691063 0.826179 1.000000
-    printed     printed_003.png 11.901268 0.783251 0.978723
+     group       image_file  accuracy      cer      wer
+  degraded degraded_001.png  1.210727 0.980191 0.995595
+  degraded degraded_005.png  7.631438 0.863676 0.983696
+  degraded degraded_003.png  8.691063 0.826179 1.000000
+   printed  printed_003.png 11.901268 0.783251 0.978723
+scene_text    scene_004.png 20.000000 0.600000 1.000000
