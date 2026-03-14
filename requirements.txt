@@ -4,3 +4,5 @@ pytesseract
 jiwer
 pandas
 tqdm
+paddleocr
+paddlepaddle
