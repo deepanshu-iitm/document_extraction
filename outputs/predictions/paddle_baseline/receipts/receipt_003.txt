@@ -1,0 +1,103 @@
+Invoice no: 28590433
+Date of issue:
+09/27/2016
+Seller:
+Client:
+White Group
+Hoffman Inc
+14292 Leslie Ford
+1478 Carr Lane
+Evansview, OK 43757
+Port George, ND 31020
+Tax Id: 903-72-1646
+Tax Id: 946-97-0364
+IBAN: GB53YNMK12475568368604
+SE
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VATI
+[%]
+Gross
+worth
+1.
+3D Bottomless Hole Optical
+3,00
+each
+13.76
+41.28
+45,41
+Illusion Area Rug Carpet Sofa
+Door Mats Non-slip Home
+2.
+Yilong 5.6'x8.3' Four Seasons
+3,00
+each
+2 999.00
+8.997.00
+%
+896,70
+0
+HandKnotted Silk Area Rugs
+Antistatic Carpets 1813
+1,00
+3.
+125*150cm/49*59inch Cat Nap
+43,43
+Blanket Tapestry Carpet
+Country Mat Home Decoration
+New Golden Brown Oriental Rug
+4,00
+each
+232,65
+930,60
+10
+1 023,66
+4.
+4X6 Oushak Chobi Floral
+Hand-Knotted Foyer Carpet
+1,00
+00009
+10
+3 960,00
+YILONG 4'x6' AIl over
+each
+5.
+Handmade Carpet Dining Room
+Hand Knotted Silk Rugs 082B
+68,10
+340,50
+10%
+374,55
+Egg Bathroom Rug Carpet Area
+5,00
+each
+6.
+Rugs Rug Floor Mats Nordic Chic
+Room Decor
+418,90
+10%
+460,79
+5,00
+each
+83,78
+7.
+World Map Round Carpets Room
+Printed Area Rug Blue Floor Mat
+Bedroom Play Mat
+SUMMARY
+VAT
+Gross worth
+VAT [%]
+Net worth
+14 367,76
+1 436,78
+15 804,54
+10%
+$1436,78
+$ 15 804,54
+Total
+$ 14 367,76

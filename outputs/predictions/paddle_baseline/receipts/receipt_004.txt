@@ -1,0 +1,106 @@
+Invoice no: 45802970
+Date of issue:
+03/30/2021
+Seller:
+Client:
+Walter-Robbins
+Lopez, Pearson and Garcia
+454 Ward Heights
+4300 Vincent Fort Apt. 067
+Port Joshuafort, OK 49084
+Silvaland, MN 16233
+Tax Id: 991-91-1867
+Tax Id: 911-96-4726
+IBAN: GB94QNPA65418582220361
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+1.
+Nintendo Wii Console - 2 sets
+4,00
+each
+99.99
+399.96
+10%
+439,96
+controllers Plus All Cables
+Included Works Great
+5,00
+each
+150,00
+750.00
+10%
+825,00
+2.
+Xbox One S 1 TB Console
+5,00
+each
+184.00
+920,00
+10%
+1 012,00
+3.
+slim
+Console System
+SCPH-75000
+Tested
+Japan
+5,00
+104,99
+524,95
+each
+10%
+577,44
+4.
+Nintendo Wii Console Complete
+Bundle w/extras tested
+4,00
+52,95
+211,80
+each
+10%
+232,98
+5.
+Nintendo Wll Black Console
+Bundle 2 Remotes+ Sensor+
+7
+Numchuk Tested & Works
+129,99
+519.96
+10%
+571,96
+4,00
+each
+6.
+Nintendo 2DS Super Mario
+Maker Edition Console Complete
+EXCELLENT CONDITION
+120,00
+360,00
+10%
+396,00
+Nintendo 64 Console with Box,
+3,00
+each
+7.
+Foam and extra oem controller
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+3 686,67
+368,67
+4 055,34
+$ 3 686,67
+$ 368,67
+Total
+$ 4 055,34

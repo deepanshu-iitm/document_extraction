@@ -1,0 +1,1375 @@
+group,image_file,ground_truth_file,prediction_file,prediction_text,reference_text,cer,wer,accuracy
+degraded,degraded_000.png,degraded_000.txt,outputs\predictions\paddle_baseline\degraded\degraded_000.txt,"R&D
+R&D QUALITY IMPROVEMENT
+SUGGESTION/SCLUTION FORM
+Name/Phone Ext.: M. Hamann. P. Harper. P. Martinez
+Date:
+9/3/92
+Supervisor/Manager: J. S. Wigand
+R&D Group:
+Licensee
+Suggestion:
+Discontinue coal retention analyses on licensee submitted
+product samples. (Note: Coal Retention testing is not
+performed by most licensees. Cther S&w physical
+measurements as ends stability and inspection for soft
+spots in cigarettes are thought to be sufficient measures
+to assure cigaratte physical integrity. The proposed
+action will increase laboratory productivity.)
+Suggested Solution(s): Delete coal retention from the list of standard
+analyses performed on licensee submitted
+preduct samples, Special requests for coal
+retention testing could still be submitted on
+an exception basis.
+Have you contacted your Manager/Supervisor?
+Yes
+No
+Manager Comments: Manager, please contact suggester and forward
+comments to the Quality Council,
+qip.up
+597005708","R&D : Suggestion: Date: Licensee Yes No 597005708 R&D QUALITY IMPROVEMENT SUGGESTION/ SOLUTION FORM Name / Phone Ext. : M. Hamann P. Harper, P. Martinez 9/ 3/ 92 R&D Group: J. S. Wigand Supervisor / Manager Discontinue coal retention analyses on licensee submitted product samples (Note : Coal Retention testing is not performed by most licensees. Other B&W physical measurements as ends stability and inspection for soft spots in ciparettes are thought to be sufficient measures to assure cigarette physical integrity. The proposed action will increase laboratory productivity . ) Suggested Solutions (s) : Delete coal retention from the list of standard analyses performed on licensee submitted product samples. Special requests for coal retention testing could still be submitted on an exception basis. Have you contacted your Manager/ Supervisor? Manager Comments: Manager, please contact suggester and forward comments to the Quality Council. qip . wp",0.1265126512651265,0.22058823529411764,82.6449556720378
+degraded,degraded_001.png,degraded_001.txt,outputs\predictions\paddle_baseline\degraded\degraded_001.txt,"RAATRLARAA
+L20119OES","Brand: Style: PHOENIX Company: Country: Macket: CYPRUS NICOSIA Weights Adhesive: Supplier(s) Color Porosity substance Ecusta E.30639 None (coresta) Type Overall skip Dimension Positioning Swift Other N/A x Date: Date: 620419245 Date: Replaces: 05045 New Page 1 of 10 RESTRICTED BROWN & WILLIAMSON INTERNATIONAL TOBACCO PRODUCT SPECIFICATION HLB- KS B. A. T. CYPRUS Place of Manufacture: Licensee Ref. NO.: CIGARETTE MAKING Physical Characteristics Overall Cigarette Length Tobacco Rod Length Filter Plug Length Filter Plug Pressure Drop (unencap.) Filter Plug Pressure Drop encap. Cigarette Circumference Total Pressure Drop (unencap.) Total Pressure Drop (encap.) Tipping Length Print Position (from filter end) Moisture content (ex-catcher) Filter ventilation Rate 84 mm 64 mm 20 mm 56 mm 56 mm 24.75 mm 90 mm 110 mm 25 mm 27 mm 13.5 % Nil % Total Cigt. Wt. 974 mg 749 mg 245 mg/cc Net Tob. Rod Density Net Net Tobacco Tipping and Tipping Application Tipping Paper: Supplier Code No(s). Imitation Cork Perforation Type and No. of lines Print Description Brown on yellow Bobbin Width Robbin Length 36 gm/ m2 50 mm mm 2700 m (Indicate N/A If Not Applicable) Supplier (s) Supplier Code No (s) T.K. 9220 Printed Imitation cork Application Pattern: Glue Pree Area mm from mouth end mm x mm Prepared by: M. HAMERTON / enm May 1, 1985 Approved by: Director of Technical Operations, Brown & Williamson International Tobacco May 1, 1985 May 1, 1985",0.9853264856933236,1.0,0.7336757153338258
+degraded,degraded_002.png,degraded_002.txt,outputs\predictions\paddle_baseline\degraded\degraded_002.txt,"SERVICE REQUEST FROM R&D BY
+INTERNATIONAL LICENSEE OPERATIONS
+RECEIVED
+REQUEST NO.:
+25-84
+APR 2 1984
+DATE:
+March 27, 1984
+P48
+P.H.H.
+INITIATED BY:
+P. H. HARPER
+COMPLETION
+TARGET DATE:
+_April 13, 1984
+COUNTRY:
+BELGIUM
+PRODUCT:
+LUCKY STRIKE Filter and VICEROY
+NATURE OF WORK:
+Advise if locally obtained Yucatan Roney (sample
+enclosed) is an acceptable substitute for HALwAY.
+R&D COMMENTS:
+Trnget dte D
+PyA 28M28f
+BY:
+DATE:
+OTES:
+a)
+Nature of work should be specified in exact terms.
+b)
+R&D should advise if completion date cannot be
+met.
+c)
+Two copies of this form to be sent to RsD by
+initiator and R&D is to return to T.O. one
+completed copy.
+MH/enm
+036/(r)
+2894M
+620429480","DATE: INITIATED BY: COMPLETION COUNTRY: PRODUCT: BELGIUM BY: DATE: NOTES: 620429480 RECEIVED SERVICE REQUEST FROM R & D BY INTERNATIONAL LICENSEE OPERATIONS REQUEST NO.: 25- 84 March 27, 1984 P. H. HARPER PHH TARGET DATE: April 13, 1984 LUCKY STRIKE Filter and VICEROY NATURE OF WORK: Advise if locally obtained Yucatan Honey (sample enclosed) is an acceptable substitute for HALWAY. R & D COMMENTS: Target the P A 29Mar 84 a) Nature of work should be specified in exact terms. b) R & D should advise if completion date cannot be met. c) Two copies of this form to be sent to R & D by initiator and R & D is to return to T. O. one completed copy. MH/ enm 0036/ (r) # 2894M APR 2 1984 P. H. H.",0.324031007751938,0.4523809523809524,61.17940199335548
+degraded,degraded_003.png,degraded_003.txt,outputs\predictions\paddle_baseline\degraded\degraded_003.txt,"MENTHOL PPODUCT TEST
+PROJECT # 198221620)
+PAGE:
+SUBJECT
+Koot Lights Ks Ws. aright ks Product Mari tor
+SAMPLE
+408 (100 Menthol rights/ios Merthol utra, 111 nonmnthl
+Lrghts/92 Noo-Menthor vtras)
+FIELD DATE
+Septerher:13, 1982
+TAR
+NIC MOIST MENT
+CIGARETTES
+839869
+Koot Lights, Ks
+ping masked
+# 869 /839 Bright Ks wate tipoing
+masked/a curtain proportin of the menthol resilt is pep
+peniont oil; Rap is jriable to Ceternine the percentege
+ptal:Merthol Snokerig
+PREFERENCE
+Total
+Male
+Female
+21-34
+35
+(205)
+(99)
+{136)}$
+196)
+(1091
+KOOLtights
+53+4
+604
+:46.-
+5614
+50
+u
+No Preference
+1007160
+10p
+T100 100
+TTRIBUT
+Female
+21-34.
+WSEM
+Hhght KBrgt KBrt K Bright K Bn
+STRENITH
+4.31 4.39 1.094 4.46 451471 435474 427 4.45
+(7=Strong
+MOOTHNESS
+3601 3.42 3.75 3.43 3.47 30 361 3.38 352246
+(7-Smoother
+INT..MENTHOL
+3.6* 4.94 3,58 4.8 3,.70- 5.02 5.6304531 2 65411 2.67
+(7-More)
+MENTHOL TASTE
+3.20** 304 346* 3.02 3,33 3.06 3.1517 2.99 3.210 0.08
+(7=Better)
+EATISFYING
+3.12* 2.78 3.284 2.78 2.97 2.76 3.17* 2074 3.00- 2.82
+(7=More)
+AFTERTASTE
+3.56 3.04 3,69 221 3.44 3.26. 3.520 3.02 3.60 2.39
+(7-PIeasant
+ASE OF DRAW
+4.00 3.96 4.02 3.95 3.99 3.6 4.07 3.2 304 .9
+(7=Easier)
+bre sorreflet aamo o te tt groact to the soker's mat dto brad
+Directional Difference 66-7gg Confidence Level
+Marginal.pifferencetB0-94x Contidence:Level
+sigoificant bifterence. 95+x Contidence ievel
+640915734","SUBJECT: SAMPLE: CIGARETTES: TAR 9.1 NIC .88 MOIST 14.0 MENT .841 PREFERENCE: Bright 39 34 43 35 42 8 9 11 6 8 200 100 100 100 100 ATTRIBUTES: 53+++ 60+++ 46 56+++ 50 (n=) Total Male Female 35+ KL Bright KL Bright KL Bright KL Bright KL Bright 4.51 4.45 4.09** 4.59 4.31*** 3.60** 3.64*** 3.39*** 3.12*** 3.56*** 4.00 3.42 3.73** 3.58*** 4.94 3.04 3.46*** 3.28*** 2.78 3.24 3.96 4.02 3.69*** 3.02 2.78 3.21 3.95 3.99 3.44 2.97* 3.33** 3.70*** 3.47 3.43 4.85 4.71 3.41 5.02 3.06 2.78 3.26 3.96 4.35** 3.61* 3.63*** 3.45*** 3.17*** 3.52*** 4.07** 4.74 3.38 5.31 2.99 2.74 3.07 3.92 4.27 3.58 3.65*** 2.34** 3.08** 3.60* 3.94 4.45 3.46 4.61 2.08 2.82 3.39 3.99 620915734 +/-/* ++/--/** +++/---/*** Attribute scores reflectia a comparison of the test product to the smoker's most often brand NOTE TOP- LINES MENTHOL PRODUCT TEST C273- 82- 7 1982 102KL 1 of 4 PDC # PROJECT # PAGE # KOOL Lights KS vs. Bright KS Product Monitor 408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol Lights / 92 Non- Menthol Ultras) September 13, 1982 FIELD DATE: # 839 / 869 # 369 / 839 KOOL Lights KS- white tip- ping masked .4 4 13. 5 .55 5. 5 masked / a certain proportion of the menthol result is pep- perrront oil; R&D is unable to determine the percentage. Bright KS white tipping- Total Menthol Smokers Total (205) Male (99) Female (106) 21- 34 (96) 35+ 109 KOOL Lights No Preference 21- 34 STRENGTH (7= Stronger) SMOOTHNESS (7= 5moother AMT MENTHOL (7= More) MENTHOL TASTE (7= Better SATISFYING (7= More APTERTASTE (7= Pleasant) EASE OF DRAW 17 Easier Directional Difference: 66 79% confidence Level 80- 94% confidence Level 95+% confidence Level Marginal Difference: Significant Difference:",0.7522871217452498,0.9680851063829787,13.981388593588573
+degraded,degraded_004.png,degraded_004.txt,outputs\predictions\paddle_baseline\degraded\degraded_004.txt,"'
+Reconstitnred Tobacce Leaf Sabstitutions
+Export Formalas
+Rovision Date: 05/11/95
+Allowable Grade Substitutions
+for Export CPCL
+Standard Grade Mark
+Allowable Substitutions
+PCFS
+Flue curred fines
+RPCFS or RPCFS-0
+PCBS
+Burfey fines
+RPCBS or RPCBS-O
+WCC
+MC-4 Manuifacturing fines
+SvOW
+HO-DW
+MORRE
+MC-4-W
+MC-6
+Stem Meal
+MC-1
+ZOW
+Winnowers
+C Stern
+RXF Fine flue cured stem
+RRXF or RRXF-0
+RRXM-B
+RRXM-T
+RBF Fine Burely stem
+RRBF or RRBF-0
+RRB-8
+RR88
+RRB-T",B&W WCC 621800455 Reconstituted Tobacco Leaf Substitutions Export Formulas Revision Date: Allowable Grade Substitutions for Export CPCL Standard Grade Mark Allowable Substitutions PCFS Flue cured fines PCBS Burley fines MC- 4 Manufacturing fines MC -6 Stem Meal MC -7 Winnowers RXF Fine flue cured stem RBF Fine Burely stem RPCFS or RPCFS-O RPCBS OT RPCBS- O MC -4 -S MC -4 -PH MC -4 -RC MC -4 -W MC -1 C Stem RRXF or RRXF -O RRXM -B RRXM -T RRBF or RRBF -O RRB -B RRB -L RRB -T,0.432967032967033,0.7555555555555555,40.57387057387057
+degraded,degraded_005.png,degraded_005.txt,outputs\predictions\paddle_baseline\degraded\degraded_005.txt,"EVEL.OPMION!
+2076","DATE: DEPARTMENT: Type EQPR B&W QUALITY Implement: Date 632120763 QUALITY IMPROVEMENT SUGGESTION OUR MISSION IS SUPERIOR CONSUMER SATISFACTION Highest Quality. Teamwork, Do Right Things Right The First Time RESEARCH & DEVELOPMENT Quality Coord Only June 21, 1993 R&D Library Carol S. Lincoln 407- 64- 3484 SUBMITTED BY: SUBMITTER'S SS#: Date Rec'd QIP Log #1 Status (1993) Keywords (1993) 6/ 21/ 93 93- 0301 SUGGESTION: (Describe Current Situation and Idea) The current system of managing records is too complex. The trend seems to be increasingly specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time adninistering the system, labeling and cleaning our files. Complying is a real burden, both for the individual and for the records coordinators. Describe Possible Solutions And Benefits 1. Drop the category specifications altogether. 2. Use moregeneral categories. hote: I have passed this to Scott Appleton for the task to use in streamlining the records management force program. PROFIT IMPROVEMENT: (If Applicable) RESPOND HERE ☐ Yes ☐ No ☐ Pending Approval Signature/ Date Responder/ Date Sign & Print Names) (See Instructions On Back)",0.9870578084555651,1.0,0.6471095772217383
+dense_text,dense_000.png,dense_000.txt,outputs\predictions\paddle_baseline\dense_text\dense_000.txt,"ATT. GEN. ADMIN, OFFICE FaX:614-466-5087
+Dec 10 '98 17:46
+P.01
+Attorney General
+Betty D. Montgomery
+CONFIDENTIAL FACSIMILE
+TRANSMISSION COVER SHEET
+FAX NO. (614) 466-5087
+TO: George Baroody
+FAXNUMBER: 
+(336) 335-7392
+PHONE NUMBER: (336) 335-7363
+DATE:
+12/10/98
+NUMBER OF PAGES INCLUDING COVER SHEET:
+3
+SENDER/PHONE NUMBER: _June Flynn for Eric BroWT/(614) 466-8980
+SPECLAL INSTRUCTIONS:
+IF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY,
+PLEASE CONTACT SENDER
+AS SOON AS POSSIBLE
+NOTE:
+THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO
+WHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED,
+CONFIDENTLAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the
+reader of this message is not the intended recipient or the employee or agent responsible for delivering
+the message to the intended reciplent, you are hereby notified that any dissemination, distribution.,
+copying. or conveying of this communication in any manner is strictly prohibited. if you have
+82092117
+recaived this communication in error, please notify us immedintely by telephone and retirn the
+cooperation.
+State Office Tower / 30 East Broad Street/ Columbus, Ohio 43215-3428
+www.ag.state.oh.us
+An Equal Opportunity Employer
+Cprinted on Peayelod repor","TO: DATE: 3 Fax: NOTE: 82092117 614 -466 -5087 Dec 10 '98 17 :46 P. 01 ATT. GEN. ADMIN. OFFICE Attorney General Betty D. Montgomery CONFIDENTIAL FACSIMILE TRANSMISSION COVER SHEET (614) 466- 5087 FAX NO. George Baroody (336) 335- 7392 FAX NUMBER: PHONE NUMBER: (336) 335- 7363 NUMBER OF PAGES INCLUDING COVER SHEET: June Flynn for Eric Brown/ (614) 466- 8980 SENDER /PHONE NUMBER: SPECIAL INSTRUCTIONS: IF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY, PLEASE CONTACT SENDER AS SOON AS POSSIBLE THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO WHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED. CONFIDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the reader of this message is not the intended recipient of the employee or agent responsible for delivering the message to the intended recipient, you are hereby notified that any dissemination, distribution, copying, or conveying of this communication in any manner is strictly prohibited. If you have received this comunication in error, please notify us immediately by telephone and return the original message to us at the address below via the U. S. Postal Service. Thank you for your cooperation. State Office Tower / 30 East Broad Street/ Columbus, Ohio 43215 -3428 www ag state oh us An Equal Opportunity Employer Primed an 12 /10 /98",0.21301316808675447,0.36036036036036034,71.33132357764426
+dense_text,dense_001.png,dense_001.txt,outputs\predictions\paddle_baseline\dense_text\dense_001.txt,"09/17/97
+10:55
+503 641 1898
+LORILLARD PTLD
+0001
+TO:
+K. A. Sparrow
+FROM:
+T. D. Blachly
+MAY 12
+AUG
+JUN 23
+SEP 15
+X
+SUBJECT:
+ULTRA LIGHTS 1OO'S- PROGRESS REPORT
+AAO
+REGION:
+(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+DIVISION:
+DIVISION:
+Partland
+# REPS:
+6
+DIVISION: Seattle South
+# REPS: 7
+DIVISION:
+Boise
+# REPS: 2.5
+DIVISION: SealUe North
+# REPS: 4
+DIVISION:
+Eugene
+0 REPS: 5
+DIVISION: Helena
+# REPS: 4
+CTEDLTEUTONEA
+DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION
+(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 1OO'S
+NAME OEAC!
+VOLUME
+TOR
+Taxaco - Scettle
+105/ 5
+225
+Texaco - Portland
+61/3
+27
+Maid-O-Clover
+20/2
+15
+Darl-Mart
+125/ 5
+31
+Zip Trip
+106 / 4
+18
+Maverick
+77/1
+19
+Astro Gas
+600 / 7
+20
+82200067
+A-1: 06MU9-15.xdc
+Page1 of 3 Pages",TO: FROM: x SUBJECT: DIVISION: DIVISION: DIVISION: DIVISION: REGION: DIVISION: DIVISION: DIVISION: 225 27 15 31 18 19 20 82200067 09/ 17/ 97 10: 55 603 841 1898 LORILLARD PTLD ☑ 001 K. A. Sparrow T. D. Blachly OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S PROGRESS REPORT AUG 4 SEP 15 MAY 12 JUN 23 (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION (S) SCOPE) Portland # REPS: 6 Boise # REPS: 2. 5 Eugene # REPS: 5 Seattle South # REPS: 7 Seattle North # REPS: 4 Helena # REPS: 4 DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S NAME OF ACCOUNT VOLUME NO. OF STORES NAME OF ACCOUNT VOLUME NO. OF STORES Texaco Seattle Texaco Portland Maid -O Clover Dari Mart Zip Trip Maverick Astro Gas 105 / 5 61 / 3 20 / 2 125 / 5 106 / 4 77 / 1 600 / 7 Page 1 of 3 Pages,0.5501955671447197,0.7284768211920529,36.06638058316136
+dense_text,dense_002.png,dense_002.txt,outputs\predictions\paddle_baseline\dense_text\dense_002.txt,"COMPETITIVE PRODUCT INTRODUCTION
+PROGRESS REPORT
+TO:
+Sam Zolot
+MANUFACTURER:
+B&W
+FROM:
+D. J. Landro
+BRAND:
+Kool Waterfall
+DATE:
+2-Dec-97
+TYPE OF PACKINGS:
+All Packings
+REPORTING PERIODS:
+Oct.
+Nov. X
+Dec.
+Jan.
+TEST MARKET GEOGRAPHY:
+Divisions 621 and 627
+Cwisconsin
+PRICE POINT: FULL $
+PNV $
+(Indicate Distributor's Cost Per Carton)
+SALES FORCE INVOLVEMENT:
+They have crew-worked distribution, and it is reported that they may crew-work it again. Sales force has been busy
+promoting old style packs to clean up inventory. All POS is being converted to ""B"" Kool.
+DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS/INVOLVEMENT:
+All accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear
+to have 100% distribution of new packings.
+CHAINS - ACCEPTANCE/MERCHANDISING:
+This has not been a problem. New packaging is just following up on the old ""packaging"".
+INDEPENDENTS - ACCEPTANCE/MERCHANDISING:
+Very well received. The old packs are bcing consolidated and promoted in select retail locations at 40d
+off/$4.00 off cartons.
+ADVERTISING - EFFECTIVENESS OF P.O.S.:
+The theme ""B"" Kool has replaced all previous POS. They have effectively replaced all old POS. New
+door signage, hour signs, poster mats, and clocks have the new design. ""B"" Kool also appears on billboards
+in Illinois.","TO: FROM: DATE: MANUFACTURER: BRAND: Oct. Dec. Jan. Nov. X B&W 82250337 COMPETITIVE PRODUCT INTRODUCTION PROGRESS REPORT Sam Zolot Kool Waterfall All Packings TYPE OF PACKINGS: D. J. Landro 2- Dec- 97 REPORTING PERIODS: TEST MARKET GEOGRAPHY: Divisions 621 and 627 wisconsin PRICE POINT: FULLS $ P/ V $ (Indicate Distributor's Cost Per Carton) SALES FORCE INVOLVEMENT: They have crew- worked distribution, and it is reported that they may crew- work it again Sales force has been busy promoting old style backs to clean up inventory. All POS is being converted to ""B"" Kool. DISTRIBUTORS ACCEPTANCE INTRO TERMS INTRO DEALS INVOLVEMENT: All accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear to have 100% distribution of new packings. CHAINS ACCEPTANCE/ MERCHANDISING: This has not been a problem. New packaging is just following on the old ""packaging"". INDEPENDENTS ACCEPTANCE/ MERCHANDISING: Very well received. The packs are peing consolidated and promoted in select retail locations at 40 off $4 00 off cartons. ADVERTISING EFFECTIVENESS OF P. O. S.: The theme ""B"" Kool has replaced all previous POS. They have effectively replaced all old POS. New door signage, hour signs, poster mats, and clocks have the new design. ""B"" Kool also appears on billboards in llinois. PAGE 1 OF 2",0.1420678768745067,0.2971698113207547,78.03811559023693
+dense_text,dense_003.png,dense_003.txt,outputs\predictions\paddle_baseline\dense_text\dense_003.txt,"002/003
+""11/05/97
+11:03
+813 884 0663
+LORILLARD_TANPA_ ++→ GREENSBOR
+Retail Excel Progress Report
+Submission for:
+Distribution by/to:
+July 31
+()
+DM to RSM 1st of Month
+August 29
+()
+To:
+R. W. Caldarella
+RSM to R.W.C. 10th
+Septernber 30 ( )
+CC: D.O.S.
+October 31
+(X)
+From:
+Kent B. Mills
+Ncvember 28 ( )
+December 30 ( )
+Area: 5 Region: 17
+Acceptance/Response: What is the retailers response to Lorillard's Excel
+Merchandising plan?
+Chains; This program has been successful to date with chains where our ""Flex
+Payment"" was not in place. The chains where we were using the ""Flex Payment""
+system we have not been as successful. The P.O.S. requirements of the P-1 Plan
+with Oil Companies is difficult to obtain,
+Independents:
+Additional P.V. merchandising is being secured quickly.
+Additional monies have assisted Region 17 in fighting PM Exclusives and PM/RJR
+co-existence situations.
+Hardware Evaluation/Effectiveness: Comment on the assembly of displays and
+application of shields:
+The displays are easily assembled and durable. Some questions have been raised
+concerning the inability to be flush with the counter and/or up against the register.
+As well as the ability to place this on the Back Bar if the settflement goes through.
+Permanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5
+Plans Only:
+Not available at this time
+82251504","17 cc: : From: Area: Region: 5 X Chains: Independents: 82251504 11/05/97 11: 03 813 384 0683 LORILLARD TAMPA GREENSBOR 0002/ 003 Retail Excel Progress Report Submission for: Distribution by/ to: DM to RSM 1st of Month RSM to R W. C. 10th D. O. S. R. W. Caldarella Kent B. Mills July 31 August 29 September 30 October 31 November 28 December 30 Acceptance/ Response: What is the retailers response to Lorillard's Excel Merchandising plan? This program has been successful to date with chains where our ""Flex Payment"". was not place. The chains where were using the ""Flex Payment"" system we have not been las successful. The P. O. S. requirements of the P- 1 Plan with Oil Companies is difficult to obtain. Additional P. V. merchandising is being secured quickly, Additional monies have assisted Region 17 in fighting PM Exclusives and PM/ RJR co-existence situations. Hardware Evaluation/ Effectiveness: Comment on the assembly of displays and application of shields: The displays are easily assembled and durable. Some questions have been raised conceming the inability to be flush with the counter and/ or against the register. As well as the ability to place this or the Back Bar if the settlement goes through Pemanent Advertising Evaluation/ Effectiveness/ Acceptance: (P- 1/ P- 5 & C 5 Plans Only: Not available at this time",0.17665615141955837,0.35909090909090907,73.21264697447663
+dense_text,dense_004.png,dense_004.txt,outputs\predictions\paddle_baseline\dense_text\dense_004.txt,"a,,
+TO:
+K. A. Sparrow
+SUBMISSION DATE
+FROM:
+D. J. Landro
+MAY 12[
+AUG 4[
+JUN 23X
+SEP 15
+SUBJECT:
+OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 10O'S - PROGRESS REPORT
+GEOGRAPHY
+REGION:
+(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+DIVISION:
+DIVISION NAME:
+Miilw. SoUthDIVISiON NAME:
+# REP
+7
+DIVISION NAME:
+Milw. NorthDIVISION NAME:
+# REP
+7
+DIVISION NAME:
+DIVISION NAME:
+# REPS
+DISTRIBUTION
+DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION
+(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S
+IND/LOR
+NO. OF
+IND/LOR
+NO. OF
+NAME OF ACCOUNT
+VOLUME
+STORES
+NAME OF ACCOUNT
+VOLUME
+STORES
+Walgreen Drug
+144/14
+93
+82252956
+Page1 of 3 Pages
+OLOGOLD.XL.S",AUG 4 SEP 15 JUN 23 MAY 12 REGION: DIVISION: 7 7 TO: FROM: SUBJECT: OLOGOLD.XLS 82252956 GEOGRAPHY DISTRIBUTION 144/14 93 K. A. Sparrow SUBMISSION DATE D. J. Landro OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S PROGRESS REPORT (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION (S) SCOPE) DIVISION NAME: DIVISION NAME: DIVISION NAME: Milw. South Milw. North DIVISION NAME: DIVISION NAME: DIVISION NAME: # REP # REP # REPS DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S NAME OF ACCOUNT IND/LOR VOLUME NO. OF STORES NAME OF ACCOUNT IND/LOR VOLUME NO. OF TORES Page1 of 3 Pages Walgreen Drug,0.4233226837060703,0.5833333333333334,49.667199148029816
+dense_text,dense_005.png,dense_005.txt,outputs\predictions\paddle_baseline\dense_text\dense_005.txt,"12/10/36
+00:51
+317 8450971
+LORILLARD
+80011002
+COMPETITIVE PRODUCT INTRODUCTION
+PROGRESS REPORT
+TO:
+MRS. K. A. SPARROW
+MANUFACTURER: R. J. Reynolds
+FROM: R.G. Ryan
+BRAND: Camel Menthol
+DATE:
+12/10/96
+TYPE OF PACKINGS: Full Flavor Box and Light Box
+REPORTING PERIODS:
+AUG
+SEPT
+OCT
+NOV
+X
+(Forward by the 10th of the following month.)
+TEST MARKET GEOGRAPHY:  All of RegiON 7.
+PRICE POINT: FULL $11.89
+PN $
+(indicate Distributor's Cost Per Carton)
+SALES FORCE INVOLVEMENT: Merchandising the top tray of permanent counter displays and labeling
+carton fixtures in the Camel section. Also placing metai signs and temporary counter displays.
+DISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS:
+Product is being introduced to all Direct Accounts in the Region. Acceptance is spotty at this time.
+DISTRIBUTOR INVOLVEMENT:
+Assembly of promotional products and shipment to retail. Indianapofis Direct Accounts are reported to be
+receiving B1G1F product.
+CHAINS - ACCEPTANCE/MERCHANDISING ALLOWANCE
+Chain acceptance has been very good.
+TTE AENERGEEEANCE
+Acceptance is better at high volume locations than at lower volume retail calls.
+82253058
+CAMEL.WK1/FMT
+PAGE 1 OF 2",82253058 LORILLARD TO: FROM: DATE: AUG SEPT OCT NOV MANUFACTURER BRAND: X 12/ 10/ 36 09: 51 317 8450977 001/ 002 COMPETITIVE PRODUCT INTRODUCTION PROGRESS REPORT MRS. K. A. SPARROW R. J. Reynolds Camel Menthol Full Flavor Box and Light Box TYPE OF PACKINGS: R. G. Ryan 12/ 10/ 96 REPORTING PERIODS: (Forward by the 10th of the following month.) TEST MARKET GEOGRAPHY All of Region 7. PRICE POINT: FULL $ 11.89 P/ V $ (Indicate Distributor's Cost Per Carton) Merchandising the top tray of permanent counter displays and labeling carton fixtures in the Camel section. Also placing metal signs and temporary counter displays. SALES FORCE INVOLVEMENT: DISTRIBUTORS - ACCEPTANCE/ INTRO TERMS/ INTRO DEALS: Product is being introduced to all Direct: Accounts in the Region. Acceptance is spotty at this time. DISTRIBUTOR INVOLVEMENT: Assembly of promotional products and shipment to retail Indianapolis Direct Accounts are reported to be receiving B1G1F product. CHAINS - ACCEPTANCE/ MERCHANDISING ALLOWANCE Chain acceptance has been very good. INDEPENDENTS - ACCEPTANCE/ MERCHANDISING ALLOWANCE Acceptance is better at high volume locations than at lower volume retail calls. CAMEL WK1/ FMT PAGE 1 OF 2,0.2486865148861646,0.3516483516483517,69.98325667327418
+handwritten,handwritten_000.png,handwritten_000.txt,outputs\predictions\paddle_baseline\handwritten\handwritten_000.txt,"down
+9
+vesolution
+
+he",put down a resolution on the subject,0.5,0.8571428571428571,32.14285714285714
+handwritten,handwritten_001.png,handwritten_001.txt,outputs\predictions\paddle_baseline\handwritten\handwritten_001.txt,"he
+6 do
+G
+66
+backcd",and he is to be backed by Mr. Will,0.696969696969697,0.8888888888888888,20.707070707070706
+handwritten,handwritten_002.png,handwritten_002.txt,outputs\predictions\paddle_baseline\handwritten\handwritten_002.txt,"Labour
+life
+ay
+more",nominating any more Labour life Peers,0.7027027027027027,0.8333333333333334,23.198198198198195
+handwritten,handwritten_003.png,handwritten_003.txt,outputs\predictions\paddle_baseline\handwritten\handwritten_003.txt,"domorroro.
+Mw.
+Micuael",M Ps tomorrow. Mr. Michael Foot has,0.5757575757575758,1.0,21.212121212121215
+handwritten,handwritten_004.png,handwritten_004.txt,outputs\predictions\paddle_baseline\handwritten\handwritten_004.txt,,"Griffiths, M P for Manchester Exchange .",1.0,1.0,0.0
+handwritten,handwritten_005.png,handwritten_005.txt,outputs\predictions\paddle_baseline\handwritten\handwritten_005.txt,"Y
+y00m
+6
+F
+orom
+be
+0",is to be made at a meeting of Labour,0.7777777777777778,1.0,11.111111111111116
+printed,printed_000.png,printed_000.txt,outputs\predictions\paddle_baseline\printed\printed_000.txt,"R&D
+R&D QUALITY IMFROVEMENT
+SUGGESTION/SOLUTION FORM
+Name/Phone Ext.: M. Hamann, P. Harper, P. Martinez
+Date:
+9/3/92
+Supervisor/Manager: J. S. Wigand
+R&D Group: Licensee
+Suggestion:
+Discontinue coal retention analyses on licensee submitted
+product samples. (Note: Coal Retention testing is not
+performed by most licensees. Other B&w physical
+measurements as ends stability and inspection for soft
+spots in cigarettes are thought to be sufficient measures
+to assure cigarette physical integrity. The proposed
+action will increase laboratory productivity.)
+Suggested Solution(s): Delete coal retention from the list of standard
+analyses performed on licensee submitted
+product samples. Special requests for coal
+retention testing could stili be submitted on
+an exception basis.
+Have you contacted your Manager/Supervisor?
+,Yes
+— No
+Manager Comments: Manager, please contact suggester and forward
+comments to the Quality Council.
+qip.wp
+597005708","R&D : Suggestion: Date: Licensee Yes No 597005708 R&D QUALITY IMPROVEMENT SUGGESTION/ SOLUTION FORM Name / Phone Ext. : M. Hamann P. Harper, P. Martinez 9/ 3/ 92 R&D Group: J. S. Wigand Supervisor / Manager Discontinue coal retention analyses on licensee submitted product samples (Note : Coal Retention testing is not performed by most licensees. Other B&W physical measurements as ends stability and inspection for soft spots in ciparettes are thought to be sufficient measures to assure cigarette physical integrity. The proposed action will increase laboratory productivity . ) Suggested Solutions (s) : Delete coal retention from the list of standard analyses performed on licensee submitted product samples. Special requests for coal retention testing could still be submitted on an exception basis. Have you contacted your Manager/ Supervisor? Manager Comments: Manager, please contact suggester and forward comments to the Quality Council. qip . wp",0.12321232123212321,0.20588235294117646,83.54526629133503
+printed,printed_001.png,printed_001.txt,outputs\predictions\paddle_baseline\printed\printed_001.txt,"RESTRICTED
+Page I of 10
+BROWN & WILLIAMSON INTERNATIONAL TOBACCO
+PRODUCT SPECIPICATION
+Brand:
+PHOENIX
+Company:
+B.A.T. CYPRUS
+Style:
+HLB- KS
+country:
+CYPRUS
+Licensee Ref. No.:
+Market:
+Place of Manufacture: _NICoSIA
+CIGARETTE MAXING
+Physical Characteristics
+Weights
+Overall Cigarette Length
+84
+mm
+Total Cigt. Wt.
+974
+Tobacco Rod Length
+mg
+64
+mm
+Filter Plug Length
+20
+mm
+Net Net Tobacco
+749
+mg
+Filter Plug Pressure Drop (unencap.)
+56
+mm
+Filter Plug Pressure Drop (encap.)
+56
+mm
+Net Tob. Rod Density 245
+mg/cc
+Cigarette Circumference
+24.75mm
+Total Pressure Drop (unencap.)
+90
+mm
+Total Pressure Drop (encap.)
+110
+mm
+Tipping Length
+25
+mm
+Print Position (from filter end)
+27
+mm
+Moisture Content (ex-catcher)
+13.5
+9
+Filter Ventilation Rate
+Nil
+8
+Tipping and Tipping Application
+Tipping Paper:
+Adhesive:
+Supplier(s)
+Ecusta
+Supplier(s)Swift
+Supplier Code No(s).
+E.30639
+Supplier Code No(s). T.K.9220
+Color
+Imitation Cork
+Type Printed Imitation Cork
+Perforation Type
+and No. of lines
+None
+Application Pattern:
+Porosity
+-
+(Coresta)
+overall x
+Skip
+other
+Print Description
+Brown on yellow
+Bobbin Width
+50 mm
+mm
+Glue Pree Area:
+N/A
+Bobbin Length
+2700
+m
+Dimension
+mm
+x
+mum
+Substance
+36
+_gm/m{2}$
+Positioning
+mm from mouth end
+(Indicate N/A If Not Applicable)
+Prepared by:
+M._HAMERTON/enm
+Date:
+May 1, 1985
+Approved by:
+Director of Technical Operations,
+Brown & williamson International
+Date:
+May 1, 1985
+Tobacco
+Replaces:
+New
+Date:
+May 1, 1985
+0504s
+620419245","Brand: Style: PHOENIX Company: Country: Macket: CYPRUS NICOSIA Weights Adhesive: Supplier(s) Color Porosity substance Ecusta E.30639 None (coresta) Type Overall skip Dimension Positioning Swift Other N/A x Date: Date: 620419245 Date: Replaces: 05045 New Page 1 of 10 RESTRICTED BROWN & WILLIAMSON INTERNATIONAL TOBACCO PRODUCT SPECIFICATION HLB- KS B. A. T. CYPRUS Place of Manufacture: Licensee Ref. NO.: CIGARETTE MAKING Physical Characteristics Overall Cigarette Length Tobacco Rod Length Filter Plug Length Filter Plug Pressure Drop (unencap.) Filter Plug Pressure Drop encap. Cigarette Circumference Total Pressure Drop (unencap.) Total Pressure Drop (encap.) Tipping Length Print Position (from filter end) Moisture content (ex-catcher) Filter ventilation Rate 84 mm 64 mm 20 mm 56 mm 56 mm 24.75 mm 90 mm 110 mm 25 mm 27 mm 13.5 % Nil % Total Cigt. Wt. 974 mg 749 mg 245 mg/cc Net Tob. Rod Density Net Net Tobacco Tipping and Tipping Application Tipping Paper: Supplier Code No(s). Imitation Cork Perforation Type and No. of lines Print Description Brown on yellow Bobbin Width Robbin Length 36 gm/ m2 50 mm mm 2700 m (Indicate N/A If Not Applicable) Supplier (s) Supplier Code No (s) T.K. 9220 Printed Imitation cork Application Pattern: Glue Pree Area mm from mouth end mm x mm Prepared by: M. HAMERTON / enm May 1, 1985 Approved by: Director of Technical Operations, Brown & Williamson International Tobacco May 1, 1985 May 1, 1985",0.6192223037417461,0.8149779735682819,28.2899861344986
+printed,printed_002.png,printed_002.txt,outputs\predictions\paddle_baseline\printed\printed_002.txt,"SERVICE REQUEST FROM R&D BY
+INTERNATIONAL LICENSEE OPERATIONS
+RECEIVED
+REQUEST NO.:
+25-84
+APR 2 1984
+DATE:
+March 27, 1984
+PHH
+P.H.H.
+INITIATED BY:
+P. H. HARPER
+COMPLETION
+TARGET DATE:
+_April 13,_1984
+COUNTRY:
+BELGIUM
+PRODUCT:
+LUCKY STRIKE Filter and VICEROY
+NATURE OF WORK:
+Advise if locally obtained Yucatan Roney (sample
+enclosed) is an acceptable substitute for HaLwAY.
+R&D COMMENTS:
+Trnget dhe ok
+PrA 24M2r8F
+BY:
+DATE:
+NOTES:
+a)
+Nature of work should be specified in exact terms.
+b)
+ReD should advise if completion date cannot be
+met.
+c)
+Two copies of this form to be sent to RsD by
+initiator and R&D is to return to T.o. one
+completed copy.
+MH/enm
+036/(r)
+2894M
+620429480","DATE: INITIATED BY: COMPLETION COUNTRY: PRODUCT: BELGIUM BY: DATE: NOTES: 620429480 RECEIVED SERVICE REQUEST FROM R & D BY INTERNATIONAL LICENSEE OPERATIONS REQUEST NO.: 25- 84 March 27, 1984 P. H. HARPER PHH TARGET DATE: April 13, 1984 LUCKY STRIKE Filter and VICEROY NATURE OF WORK: Advise if locally obtained Yucatan Honey (sample enclosed) is an acceptable substitute for HALWAY. R & D COMMENTS: Target the P A 29Mar 84 a) Nature of work should be specified in exact terms. b) R & D should advise if completion date cannot be met. c) Two copies of this form to be sent to R & D by initiator and R & D is to return to T. O. one completed copy. MH/ enm 0036/ (r) # 2894M APR 2 1984 P. H. H.",0.32868217054263565,0.4603174603174603,60.550018456995204
+printed,printed_003.png,printed_003.txt,outputs\predictions\paddle_baseline\printed\printed_003.txt,"PDC H C273-82-7
+TOP-LINES
+PROJECT # 1982-102KL
+MENTHOL PRODUCT TEST
+PAGE # 1f 4.
+SUBJECT:
+KOOL Lights KS vs. Bright KS Product Monitor
+SAMPLE:
+408 {100 Menthol Lights/105 Menthol U1tra, 111 Non-Menthol
+Lights/92 Non-Menthol Ultras)
+FIELD DATE:
+September 13, 1982
+TAR
+NIC
+MOIST
+MENT
+# 839 /
+869
+KOOL Lights KS - white tip-
+9.1
+-88
+14.0
+CIGARETTES:
+.474
+ping masked
+# 869 /
+839
+Bright KS white tipping -
+.5.5
+.55
+13.5
+.841
+masked/a certain proportion of the menthol result is pep-
+permint oil; RaD is unable to determine the percentage.
+Total Menthol Smokers
+Total
+Male
+Female
+21-34
+3.5+
+PREFERENCE:
+(n=)
+(205)
+(99
+(106)
+(96)
+(109)
+KOOL Lights
+53+++
+60+1+
+46
+56+++
+50
+Bright
+39
+34
+43
+35
+42
+No Preference
+8
+6
+11
+9
+8
+100
+100
+100
+100
+100
+ATTRIBUTES:
+Total
+Male
+Female
+21-34
+35+
+KL
+Bright KL
+Bright KL _Bright _KL_ Bright KL._ Brigh
+STRENGTH
+4.31*** 4.59
+4.09**
+4.45 4.51_ 4.71 4.35** 4.74 4.27 4.45
+(7=Stronger)
+SMOOTHNESS
+3.60**
+3.42
+.3.73**
+3.43 3.47 3.41 3.61* 3.38 3.58 3.46
+(7=Smoother)
+AMT. MENTHOL
+3.64*** 4.94
+3.58***
+4.85
+3.70*** 5.02 3.63*** 5.31 3.65***4.61
+(7=More)
+MENTHOL TASTE
+3.39*** 3.04
+3.46***
+3.02
+3.33** 3.06 3.45*** 2.99 2.34** 3.08
+(7=Better)
+SATISFYING
+3.12*** 2.78
+3.28***
+2.78
+2.97*
+2.78 3.17*** 2.74 3.08** 2.82
+(7=More)
+APTERTASTE
+3.56*** 3.24
+(7-Pleasant)
+3.69***
+3.21
+3.44
+3.26 3.52*** 3.07 3.60* 3.39
+CASE OF DRAW
+4.00
+3.96
+4.02
+3.95
+3.99
+3.96 4.07** 3.92 3.94 3.99
+(7=Easier)
+o.
+Attribute_scores reflect a comparison of the test product to_the smoker's most often brand.
++/-/*
+Directional Difference: 66-79% Confidence Level
+++/--/**
+Marginal Difference:
+80-94% Confidence Level
++++/---/*** Significant Difference:
+95+% Confidence Level
+620915734","SUBJECT: SAMPLE: CIGARETTES: TAR 9.1 NIC .88 MOIST 14.0 MENT .841 PREFERENCE: Bright 39 34 43 35 42 8 9 11 6 8 200 100 100 100 100 ATTRIBUTES: 53+++ 60+++ 46 56+++ 50 (n=) Total Male Female 35+ KL Bright KL Bright KL Bright KL Bright KL Bright 4.51 4.45 4.09** 4.59 4.31*** 3.60** 3.64*** 3.39*** 3.12*** 3.56*** 4.00 3.42 3.73** 3.58*** 4.94 3.04 3.46*** 3.28*** 2.78 3.24 3.96 4.02 3.69*** 3.02 2.78 3.21 3.95 3.99 3.44 2.97* 3.33** 3.70*** 3.47 3.43 4.85 4.71 3.41 5.02 3.06 2.78 3.26 3.96 4.35** 3.61* 3.63*** 3.45*** 3.17*** 3.52*** 4.07** 4.74 3.38 5.31 2.99 2.74 3.07 3.92 4.27 3.58 3.65*** 2.34** 3.08** 3.60* 3.94 4.45 3.46 4.61 2.08 2.82 3.39 3.99 620915734 +/-/* ++/--/** +++/---/*** Attribute scores reflectia a comparison of the test product to the smoker's most often brand NOTE TOP- LINES MENTHOL PRODUCT TEST C273- 82- 7 1982 102KL 1 of 4 PDC # PROJECT # PAGE # KOOL Lights KS vs. Bright KS Product Monitor 408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol Lights / 92 Non- Menthol Ultras) September 13, 1982 FIELD DATE: # 839 / 869 # 369 / 839 KOOL Lights KS- white tip- ping masked .4 4 13. 5 .55 5. 5 masked / a certain proportion of the menthol result is pep- perrront oil; R&D is unable to determine the percentage. Bright KS white tipping- Total Menthol Smokers Total (205) Male (99) Female (106) 21- 34 (96) 35+ 109 KOOL Lights No Preference 21- 34 STRENGTH (7= Stronger) SMOOTHNESS (7= 5moother AMT MENTHOL (7= More) MENTHOL TASTE (7= Better SATISFYING (7= More APTERTASTE (7= Pleasant) EASE OF DRAW 17 Easier Directional Difference: 66 79% confidence Level 80- 94% confidence Level 95+% confidence Level Marginal Difference: Significant Difference:",0.764954257565095,0.9716312056737588,13.170726838057313
+printed,printed_004.png,printed_004.txt,outputs\predictions\paddle_baseline\printed\printed_004.txt,"Reconstituted Tobacco Leaf Substitutions
+B&W
+Export Formulas
+Revision Date: 05/11/95
+Allowable Grade Substitutions
+for Export CPCL
+Standard Grade Mark
+Allowable Substitutions
+PCFS
+Flue cured fines
+RPCFS or RPCFS-O
+PCBS
+Burley fines
+RPCBS or RPCBS-O
+WCC
+MC-4
+Manufacturing fines
+MC-4-S
+MC-4-PH
+MC-4-RC
+MC-4-W
+MC-6
+Stem Meal
+MC-1
+MC-7
+Winnowers
+C Stem
+RXF
+Fine flue cured stem
+RRXF or RRXF-0
+RRXM-B
+RRXM-T
+RBF
+Fine Burely stem
+RRBF or RRBF-O
+RRB-B
+RRB-L
+RRB-T",B&W WCC 621800455 Reconstituted Tobacco Leaf Substitutions Export Formulas Revision Date: Allowable Grade Substitutions for Export CPCL Standard Grade Mark Allowable Substitutions PCFS Flue cured fines PCBS Burley fines MC- 4 Manufacturing fines MC -6 Stem Meal MC -7 Winnowers RXF Fine flue cured stem RBF Fine Burely stem RPCFS or RPCFS-O RPCBS OT RPCBS- O MC -4 -S MC -4 -PH MC -4 -RC MC -4 -W MC -1 C Stem RRXF or RRXF -O RRXM -B RRXM -T RRBF or RRBF -O RRB -B RRB -L RRB -T,0.4175824175824176,0.7,44.12087912087912
+printed,printed_005.png,printed_005.txt,outputs\predictions\paddle_baseline\printed\printed_005.txt,"QUALITY IMPROVEMENT SUGGESTION
+ BW
+OUR MISSION IS SUPERIOR CONSUMER SATISFACTION
+Highest Quality, Teamwork, Do Right Things Right The First Time
+RESEARCH & DEVELOPMENT
+DATE: JUne 21, 1993DEPARTMENT: R&D LibrAry
+Quality Coord Only
+Date Rec'd
+6/21/93
+SUBNITTED BY:
+Carol S. Lincoln
+QIP Log#1_93-0307
+Type EOPR
+SUBMITTER'S SS#: 407-64-3484
+Status 1993
+Keywords (1993)
+sucoesTroN: (Describe Current Situation and Idea)
+The current system of managing records is too complex. The trend seems to be inempacingly
+specific, when we should be getting more general. Riqht now, people must work to understand
+the system. We must spend too much time administering the system, labeling, and cleaning
+our files. Complying is a real burden, both for the individual and for the records
+coordinators.
+Describe Possible Solutions And Bepefits:
+1. Drop the category specifications altogether.
+2. Use moregeneral categories.
+hate: I have pasoed thie to seott appleton for the task force to uer
+in streambining the records managehent progpam.
+PROFIT IKPROVEMENT: (If Applicable)
+RESPOND HERE
+Implement: □Yes □No Pending Date
+632120763
+Approval Signature/Date
+(Sign & Print Names)
+Responder/Date
+(See Instructions On Eack)","DATE: DEPARTMENT: Type EQPR B&W QUALITY Implement: Date 632120763 QUALITY IMPROVEMENT SUGGESTION OUR MISSION IS SUPERIOR CONSUMER SATISFACTION Highest Quality. Teamwork, Do Right Things Right The First Time RESEARCH & DEVELOPMENT Quality Coord Only June 21, 1993 R&D Library Carol S. Lincoln 407- 64- 3484 SUBMITTED BY: SUBMITTER'S SS#: Date Rec'd QIP Log #1 Status (1993) Keywords (1993) 6/ 21/ 93 93- 0301 SUGGESTION: (Describe Current Situation and Idea) The current system of managing records is too complex. The trend seems to be increasingly specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time adninistering the system, labeling and cleaning our files. Complying is a real burden, both for the individual and for the records coordinators. Describe Possible Solutions And Benefits 1. Drop the category specifications altogether. 2. Use moregeneral categories. hote: I have passed this to Scott Appleton for the task to use in streamlining the records management force program. PROFIT IMPROVEMENT: (If Applicable) RESPOND HERE ☐ Yes ☐ No ☐ Pending Approval Signature/ Date Responder/ Date Sign & Print Names) (See Instructions On Back)",0.2286453839516825,0.32608695652173914,72.26338297632891
+receipts,receipt_000.png,receipt_000.txt,outputs\predictions\paddle_baseline\receipts\receipt_000.txt,"Invoice no: 79587541
+Date of issue:
+08/02/2014
+Seller:
+Client:
+Baker-Wagner
+Horton, Gillespie and Moore
+909 Duarte Drive Apt. 874
+711 Richard Cove Suite 885
+Joelfort, NH 24372
+East Mindy, WY 58533
+Tax Id: 971-99-0928
+Tax Id: 965-80-2789
+IBAN: GB24KUOP15238222815223
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VATI
+[%]
+Gross
+worth
+1.
+Bottle tops lid reusable
+1,00
+each
+9,99
+9,99
+10%
+10,99
+vacuume sealer stopper flip cap
+cork wine beer
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+9,99
+1,00
+10,99
+Total
+$ 9,99
+$1,00
+$ 10,99","Invoice no: 79587541 Date of issue: 08/02/2014 Seller: Client: Baker-Wagner Horton, Gillespie and Moore. 909 Duarte Drive Apt. 874 711 Richard Cove Suite 885. Joelfort, NH 24372 East Mindy, WY 58533 Tax Id: 971-99-0928 Tax Id: 965-80-2789 IBAN: GB24KUOP15238222815223 ITEMS UM No. Description Qty Net price Net worth VAT [%] Gross  worth Bottle tops lid reusable 1,00 each 9,99 9,99 10% 10,99 vacuume sealer stopper flip cap cork wine beer SUMMARY VAT [%] VAT Net worth Gross worth 10% 9,99 1,00 10,99 Total $ 9,99 $1,00 $ 10,99",0.035343035343035345,0.07142857142857142,94.66141966141967
+receipts,receipt_001.png,receipt_001.txt,outputs\predictions\paddle_baseline\receipts\receipt_001.txt,"Invoice no: 27216737
+Date of issue:
+05/23/2018
+Seller:
+Client:
+Nicholson, Hamilton and Holder
+Campbell and Sons
+425 Alyssa Mills Suite 578
+853 Kristen Light Suite 482
+Tracyshire, WI 66027
+Port Samantha, ID 90647
+Tax Id: 973-80-8757
+Tax Id: 998-85-9901
+IBAN: GB58DFZZ87387694076811
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT
+[%]
+Gross
+worth
+1.
+Abstract Blue Gray Gradient
+2,00
+each
+36,98
+73,96
+81,36
+Bedside Area
+Rugs
+Bedroom
+Decor Carpets Non-Slip
+Mat
+2.
+Yilong 5'x7' Handknotted Silk
+2,00
+each
+8
+400,00
+16800,00
+10%
+18 480,00
+Carpet Home Interior Classic
+Luxury Area Rug 1047
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+1 687,40
+18 561,36
+16 873,96
+Total
+$1 687,40
+$ 18 561,36
+$ 16 873,96","Invoice no: 27216737 Date of issue: 05/23/2018 Client: Seller: Nicholson, Hamilton and Holder Campbell and Sons 425 Alyssa Mills Suite 578 853 Kristen Light Suite 482 Tracyshire, WI 66027 Port Samantha, ID 90647 Tax Id: 973-80-8757 Tax Id: 998-85-9901 IBAN: GB58DFZZ87387694076811 ITEMS No. Description Qty UM Net price Net worth VAT [%] Gross  worth Abstract Blue Gray Gradient 2,00 each 36,98 73,96 10% 81,36 Bedside Area Rugs Bedroom Decor Carpets Non-Slip Mat Yilong 5'x7' Handknotted Silk 10% 2. 2,00 each 8 400,00 16 800,00 18 480,00 Carpet Home Interior Classic Luxury Area Rug 1047  SUMMARY VAT [%] Net worth VAT Gross worth 16 873,96 10% 1 687,40 18 561,36 Total $ 16 873,96 $1 687,40 $ 18 561,36",0.08588957055214724,0.13157894736842105,89.12657410397159
+receipts,receipt_002.png,receipt_002.txt,outputs\predictions\paddle_baseline\receipts\receipt_002.txt,"Invoice no: 58097062
+Date of issue:
+04/05/2013
+Seller:
+Client:
+Wright-Alvarez
+Harper-Flynn
+8309 Bernard Village Apt. 284
+753 Acevedo Crossroad Suite 727
+Robinsonshire, VT 35375
+West Marcus, NY 87119
+Tax Id: 922-84-4511
+Tax Id: 964-84-7884
+IBAN: GB79CMCC33561352409593
+ITEMS
+Qty
+No.
+Description
+UM
+Net price
+Net worth
+VAT
+[%]
+Gross
+worth
+1.
+YILONG 4'x6' Yellow Handmade
+1,00
+each
+600.00
+E
+600,00
+1.0%
+3 960,00
+Carpet Dining Room Hand
+Knotted
+Silk
+Rugs 083B
+Cartoon Rabbit Printed Round
+3,00
+each
+531.24
+584,36
+2.
+Carpet Area Rug Children Play
+Tent Floor Mat Rug
+4,00
+each
+680,00
+10%
+748,00
+3.
+Afghan
+Carpet
+Traditional Ghazni Floral
+2,00
+each
+15.96
+31.92
+10
+O7
+35,11
+4.
+Chef Pattern Kitchen Floor Rugs
+Carpet Blanket Area Mats Home
+Supply 40x60cm
+2,00
+12 000,00
+26 400,00
+andma
+each
+5.
+Y
+Area Rug
+Chinese Art
+Deco
+Classic Indoor Carpet
+13,09
+26,18
+10%
+28,80
+2,00
+each
+6.
+Home Christmas Santa Claus
+Anti-slip Room Floor Mat Decor
+Carpet Rug Xmas Decor
+59,98
+10%
+65,98
+2,00
+each
+29,99
+7.
+New Design Rectangular Hand
+Woven Chindi Rag
+Rug Floor
+Handmade Carpet
+Aztec Mat
+SUMMARY
+VAT
+Gross worth
+VAT [%]
+Net worth
+28 929,32
+2 892,93
+31 822,25
+10%
+$ 2 892,93
+$ 31 822,25
+$ 28 929,32
+Total","Invoice no: 58097062 Date of issue: 04/05/2013 Seller: Client: Wright-Alvarez Harper-Flynn 8309 Bernard Village Apt. 284 753 Acevedo Crossroad Suite 727 Robinsonshire, VT 35375 West Marcus, NY 87119 Tax Id: 922-84-4511 Tax Id: 964-84-7884 IBAN: GB79CMCC33561352409593 ITEMS Qty UM Net price VAT [%] No. Description Net worth Gross  worth YILONG 4'x6' Yellow Handmade.  each 10% 1,00 3600,00 3600,00 3 960,00 1 Carpet Dining Room Hand Knotted Silk Rugs 083B Cartoon Rabbit Printed Round 10% 584,36 2. 3,00 each 177,08 531,24 Carpet Area Rug Children Play Tent Floor Mat Rug Beige Color Hand Knotted 2'x4 4,00  each 170,00 680,00 10% 748,00 3. Afghan Kilim Rug Carpet Traditional Ghazni Floral Chef Pattern Kitchen Floor Rugs 15,96 31,92 10% 2,00 each 35,11 4 Carpet Blanket Area Mats Home Supply 40x60cm YILONG 6'x9' Handmade Silk 2,00  each 12 000,00 24000,00 10% 26400,00 5 Area Rug Chinese Art Deco Classic Indoor Carpet Home Christmas Santa Claus 2,00 each 13,09 26,18 10% 28,80 6 Anti-slip Room Floor Mat Decor. Carpet Rug Xmas Decor 29,99 59,98 10%  New Design Rectangular Hand 2,00 65,98  each Woven Chindi Rag Rug Floor Handmade Carpet Aztec Mat SUMMARY VAT [%] VAT Net worth Gross worth 10% 28 929,32 2 892,93 31 822,25 Total $ 28 929,32 $ 2 892,93 $ 31 822,25",0.28377230246389124,0.3786407766990291,66.87934604185398
+receipts,receipt_003.png,receipt_003.txt,outputs\predictions\paddle_baseline\receipts\receipt_003.txt,"Invoice no: 28590433
+Date of issue:
+09/27/2016
+Seller:
+Client:
+White Group
+Hoffman Inc
+14292 Leslie Ford
+1478 Carr Lane
+Evansview, OK 43757
+Port George, ND 31020
+Tax Id: 903-72-1646
+Tax Id: 946-97-0364
+IBAN: GB53YNMK12475568368604
+SE
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VATI
+[%]
+Gross
+worth
+1.
+3D Bottomless Hole Optical
+3,00
+each
+13.76
+41.28
+45,41
+Illusion Area Rug Carpet Sofa
+Door Mats Non-slip Home
+2.
+Yilong 5.6'x8.3' Four Seasons
+3,00
+each
+2 999.00
+8.997.00
+%
+896,70
+0
+HandKnotted Silk Area Rugs
+Antistatic Carpets 1813
+1,00
+3.
+125*150cm/49*59inch Cat Nap
+43,43
+Blanket Tapestry Carpet
+Country Mat Home Decoration
+New Golden Brown Oriental Rug
+4,00
+each
+232,65
+930,60
+10
+1 023,66
+4.
+4X6 Oushak Chobi Floral
+Hand-Knotted Foyer Carpet
+1,00
+00009
+10
+3 960,00
+YILONG 4'x6' AIl over
+each
+5.
+Handmade Carpet Dining Room
+Hand Knotted Silk Rugs 082B
+68,10
+340,50
+10%
+374,55
+Egg Bathroom Rug Carpet Area
+5,00
+each
+6.
+Rugs Rug Floor Mats Nordic Chic
+Room Decor
+418,90
+10%
+460,79
+5,00
+each
+83,78
+7.
+World Map Round Carpets Room
+Printed Area Rug Blue Floor Mat
+Bedroom Play Mat
+SUMMARY
+VAT
+Gross worth
+VAT [%]
+Net worth
+14 367,76
+1 436,78
+15 804,54
+10%
+$1436,78
+$ 15 804,54
+Total
+$ 14 367,76","Invoice no: 28590433 Date of issue: 09/27/2016 Client: Seller: White Group Hoffman Inc 14292 Leslie Ford 1478 Carr Lane Evansview, OK 43757 Port George, ND 31020 Tax Id: 903-72-1646 Tax Id: 946-97-0364 IBAN: GB53YNMK12475568368604 ITEMS Qty UM Net price VAT [%] No. Description Net worth Gross  worth 3D Bottomless Hole Optical 13,76 41,28 10% 3,00  each 45,41 1 Illusion Area Rug Carpet Sofa Door Mats Non-slip Home Yilong 5.6'x8.3' Four Seasons 3,00 10% 2. each 2 999,00 8 997,00 9 896,70 HandKnotted Silk Area Rugs Antistatic Carpets 1813 125*150cm/49*59inch Cat Nap 1,00  each 39,48 39,48 3. 10% 43,43 Blanket Tapestry Carpet Country Mat Home Decoration 930,60 10%  New Golden Brown Oriental Rug 4,00 each 232,65 1023,66 4 4X6 Oushak Chobi Floral Hand-Knotted Foyer Carpet  3 600,00 10% YILONG 4'x6' All over 1,00  each 3600,00 3 960,00 Handmade Carpet Dining Room Hand Knotted Silk Rugs 082B Egg Bathroom Rug Carpet Area 5,00  each 68,10 340,50 10% 374,55 6 Rugs Rug Floor Mats Nordic Chic Room Decor World Map Round Carpets Room 10% 5,00  each 83,78 418,90 460,79 7. Printed Area Rug Blue Floor Mat Bedroom Play Mat SUMMARY VAT [%] VAT Net worth Gross worth 10% 1 436,78 14367,76 15 804,54 Total $ 14 367,76 $1 436,78 $ 15 804,54",0.2600700525394046,0.3853658536585366,67.72820469010294
+receipts,receipt_004.png,receipt_004.txt,outputs\predictions\paddle_baseline\receipts\receipt_004.txt,"Invoice no: 45802970
+Date of issue:
+03/30/2021
+Seller:
+Client:
+Walter-Robbins
+Lopez, Pearson and Garcia
+454 Ward Heights
+4300 Vincent Fort Apt. 067
+Port Joshuafort, OK 49084
+Silvaland, MN 16233
+Tax Id: 991-91-1867
+Tax Id: 911-96-4726
+IBAN: GB94QNPA65418582220361
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+1.
+Nintendo Wii Console - 2 sets
+4,00
+each
+99.99
+399.96
+10%
+439,96
+controllers Plus All Cables
+Included Works Great
+5,00
+each
+150,00
+750.00
+10%
+825,00
+2.
+Xbox One S 1 TB Console
+5,00
+each
+184.00
+920,00
+10%
+1 012,00
+3.
+slim
+Console System
+SCPH-75000
+Tested
+Japan
+5,00
+104,99
+524,95
+each
+10%
+577,44
+4.
+Nintendo Wii Console Complete
+Bundle w/extras tested
+4,00
+52,95
+211,80
+each
+10%
+232,98
+5.
+Nintendo Wll Black Console
+Bundle 2 Remotes+ Sensor+
+7
+Numchuk Tested & Works
+129,99
+519.96
+10%
+571,96
+4,00
+each
+6.
+Nintendo 2DS Super Mario
+Maker Edition Console Complete
+EXCELLENT CONDITION
+120,00
+360,00
+10%
+396,00
+Nintendo 64 Console with Box,
+3,00
+each
+7.
+Foam and extra oem controller
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+3 686,67
+368,67
+4 055,34
+$ 3 686,67
+$ 368,67
+Total
+$ 4 055,34","Invoice no: 45802970 Date of issue:. 03/30/2021 Seller: Client: Walter-Robbins Lopez, Pearson and Garcia 454 Ward Heights 4300 Vincent Fort Apt. 067 Port Joshuafort, OK 49084 Silvaland, MN 16233 Tax Id: 991-91-1867 Tax Id: 911-96-4726 IBAN: GB94ONPA65418582220361 ITEMS Qty UM Net price VAT [%] No. Description Net worth Gross  worth 10% 439,96 1. Nintendo Wii Console - 2 sets 4,00 each 99,99 399,96 controllers Plus All Cablese Included Works Great 5,00 Xbox One S 1 TB Console each 150,00 750,00 10% 825,00 2. Playstation 2 FINAL FANTASY XII 3. 5,00 each 184,00 920,00 10% 1012,00 Slim Console System SCPH-75000 Tested Japan Nintendo Wii Console Complete 5,00 each 104,99 524,95 10% 577,44 4. Bundle w/extras tested Nintendo Wil Black Console 4,00 each 52,95 211,80 10% 232,98 Bundle 2 Remotes+ sensor+ 1 Numchuk Tested & Works 519,96 10%  Nintendo 2DS Super Mario 4,00 each 129,99 571,96  Maker Edition Console Complete EXCELLENT CONDITION  Nintendo 64 Console with Box, 3,00 each 120,00 360,00 10% 396,00 7. Foam and extra oem controller SUMMARY VAT [%] Net worth VAT Gross worth 10% 3686,67 368,67 4055,34 Total $ 3 686,67 $368,67 $ 4 055,34",0.29601518026565465,0.3867403314917127,65.86222441213164
+receipts,receipt_005.png,receipt_005.txt,outputs\predictions\paddle_baseline\receipts\receipt_005.txt,"Invoice no: 54533510
+Date of issue:
+02/10/2021
+Seller:
+Client:
+Tucker Inc
+Skinner Group
+160 Kaitlin Flat
+281 Cameron Alley
+Griffithhaven, DC 90675
+East Marktown, CT 76958
+Tax Id: 925-76-7636
+Tax Id: 904-87-0658
+IBAN: GB15JPFA79210576920492
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+[%]
+Gross
+VAT
+worth
+1.
+The Key to Rebecca by Ken
+5,00
+each
+5,17
+25,85
+10%
+28,44
+Follett
+2.
+Escape from the Carnival of
+5,00
+5,01
+25,05
+1
+27,55
+each
+Horrors (Give Yourself
+Goosebumps) by R. L. Stine
+1,00
+each
+7,00
+7,00
+10%
+7,70
+3.
+Master and God
+SUMMARY
+VAT [%]
+VAT
+Net worth
+Gross worth
+5,79
+63,69
+10%
+57,90
+$63,69
+Total
+$ 57,90
+$5,79","Invoice no: 54533510. Date of issue: 02/10/2021 Client: Seller: Tucker Inc Skinner Group 160 Kaitlin Flat 281 Cameron Alley Griffithhaven, DC 90675 East Marktown, CT 76958 Tax Id: 925-76-7636 Tax Id: 904-87-0658 IBAN: GB15JPFA79210576920492 ITEMS No. Description Qty UM Net price Net worth VAT [%] Gross  worth The Key to Rebecca by Ken 25,85 10% 5,00 each 5,17 28,44 1. Follett Escape from the Carnival of 5,00 5,01 10% each 25,05 27,55 Horrors (Give Yourself Goosebumps) by R. L. Stine 1,00  Master and God each 7,00 7,00 10% 3. 7,70 SUMMARY VAT [%] VAT Net worth Gross worth 10% 57,90 5,79 63,69 Total $ 57,90 $ 5,79 $ 63,69",0.1696113074204947,0.25,79.01943462897528
+scene_text,scene_000.png,scene_000.txt,outputs\predictions\paddle_baseline\scene_text\scene_000.txt,Lakes,LAKES,0.0,0.0,100.0
+scene_text,scene_001.png,scene_001.txt,outputs\predictions\paddle_baseline\scene_text\scene_001.txt,SUNIL,SUNIL,0.0,0.0,100.0
+scene_text,scene_002.png,scene_002.txt,outputs\predictions\paddle_baseline\scene_text\scene_002.txt,200,200,0.0,0.0,100.0
+scene_text,scene_003.png,scene_003.txt,outputs\predictions\paddle_baseline\scene_text\scene_003.txt,Enjol,ENJOY,0.2,1.0,40.0
+scene_text,scene_004.png,scene_004.txt,outputs\predictions\paddle_baseline\scene_text\scene_004.txt,JOUSE,HOUSE,0.2,1.0,40.0
+scene_text,scene_005.png,scene_005.txt,outputs\predictions\paddle_baseline\scene_text\scene_005.txt,MON,NOW,0.6666666666666666,1.0,16.666666666666675

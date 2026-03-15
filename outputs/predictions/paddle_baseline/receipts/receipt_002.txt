@@ -1,0 +1,112 @@
+Invoice no: 58097062
+Date of issue:
+04/05/2013
+Seller:
+Client:
+Wright-Alvarez
+Harper-Flynn
+8309 Bernard Village Apt. 284
+753 Acevedo Crossroad Suite 727
+Robinsonshire, VT 35375
+West Marcus, NY 87119
+Tax Id: 922-84-4511
+Tax Id: 964-84-7884
+IBAN: GB79CMCC33561352409593
+ITEMS
+Qty
+No.
+Description
+UM
+Net price
+Net worth
+VAT
+[%]
+Gross
+worth
+1.
+YILONG 4'x6' Yellow Handmade
+1,00
+each
+600.00
+E
+600,00
+1.0%
+3 960,00
+Carpet Dining Room Hand
+Knotted
+Silk
+Rugs 083B
+Cartoon Rabbit Printed Round
+3,00
+each
+531.24
+584,36
+2.
+Carpet Area Rug Children Play
+Tent Floor Mat Rug
+4,00
+each
+680,00
+10%
+748,00
+3.
+Afghan
+Carpet
+Traditional Ghazni Floral
+2,00
+each
+15.96
+31.92
+10
+O7
+35,11
+4.
+Chef Pattern Kitchen Floor Rugs
+Carpet Blanket Area Mats Home
+Supply 40x60cm
+2,00
+12 000,00
+26 400,00
+andma
+each
+5.
+Y
+Area Rug
+Chinese Art
+Deco
+Classic Indoor Carpet
+13,09
+26,18
+10%
+28,80
+2,00
+each
+6.
+Home Christmas Santa Claus
+Anti-slip Room Floor Mat Decor
+Carpet Rug Xmas Decor
+59,98
+10%
+65,98
+2,00
+each
+29,99
+7.
+New Design Rectangular Hand
+Woven Chindi Rag
+Rug Floor
+Handmade Carpet
+Aztec Mat
+SUMMARY
+VAT
+Gross worth
+VAT [%]
+Net worth
+28 929,32
+2 892,93
+31 822,25
+10%
+$ 2 892,93
+$ 31 822,25
+$ 28 929,32
+Total
