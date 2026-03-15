@@ -1,0 +1,134 @@
+PDC H C273-82-7
+TOP-LINES
+PROJECT # 1982-102KL
+MENTHOL PRODUCT TEST
+PAGE # 1f 4.
+SUBJECT:
+KOOL Lights KS vs. Bright KS Product Monitor
+SAMPLE:
+408 {100 Menthol Lights/105 Menthol U1tra, 111 Non-Menthol
+Lights/92 Non-Menthol Ultras)
+FIELD DATE:
+September 13, 1982
+TAR
+NIC
+MOIST
+MENT
+# 839 /
+869
+KOOL Lights KS - white tip-
+9.1
+-88
+14.0
+CIGARETTES:
+.474
+ping masked
+# 869 /
+839
+Bright KS white tipping -
+.5.5
+.55
+13.5
+.841
+masked/a certain proportion of the menthol result is pep-
+permint oil; RaD is unable to determine the percentage.
+Total Menthol Smokers
+Total
+Male
+Female
+21-34
+3.5+
+PREFERENCE:
+(n=)
+(205)
+(99
+(106)
+(96)
+(109)
+KOOL Lights
+53+++
+60+1+
+46
+56+++
+50
+Bright
+39
+34
+43
+35
+42
+No Preference
+8
+6
+11
+9
+8
+100
+100
+100
+100
+100
+ATTRIBUTES:
+Total
+Male
+Female
+21-34
+35+
+KL
+Bright KL
+Bright KL _Bright _KL_ Bright KL._ Brigh
+STRENGTH
+4.31*** 4.59
+4.09**
+4.45 4.51_ 4.71 4.35** 4.74 4.27 4.45
+(7=Stronger)
+SMOOTHNESS
+3.60**
+3.42
+.3.73**
+3.43 3.47 3.41 3.61* 3.38 3.58 3.46
+(7=Smoother)
+AMT. MENTHOL
+3.64*** 4.94
+3.58***
+4.85
+3.70*** 5.02 3.63*** 5.31 3.65***4.61
+(7=More)
+MENTHOL TASTE
+3.39*** 3.04
+3.46***
+3.02
+3.33** 3.06 3.45*** 2.99 2.34** 3.08
+(7=Better)
+SATISFYING
+3.12*** 2.78
+3.28***
+2.78
+2.97*
+2.78 3.17*** 2.74 3.08** 2.82
+(7=More)
+APTERTASTE
+3.56*** 3.24
+(7-Pleasant)
+3.69***
+3.21
+3.44
+3.26 3.52*** 3.07 3.60* 3.39
+CASE OF DRAW
+4.00
+3.96
+4.02
+3.95
+3.99
+3.96 4.07** 3.92 3.94 3.99
+(7=Easier)
+o.
+Attribute_scores reflect a comparison of the test product to_the smoker's most often brand.
++/-/*
+Directional Difference: 66-79% Confidence Level
+++/--/**
+Marginal Difference:
+80-94% Confidence Level
++++/---/*** Significant Difference:
+95+% Confidence Level
+620915734
