@@ -1,0 +1,504 @@
+=== 10 WORST HYBRID PREDICTIONS ===
+
+#1
+Group: degraded
+Image: degraded_005.png
+Accuracy: 0.6471095772217383
+CER: 0.9870578084555652
+WER: 1.0
+GROUND TRUTH:
+DATE: DEPARTMENT: Type EQPR B&W QUALITY Implement: Date 632120763 QUALITY IMPROVEMENT SUGGESTION OUR MISSION IS SUPERIOR CONSUMER SATISFACTION Highest Quality. Teamwork, Do Right Things Right The First Time RESEARCH & DEVELOPMENT Quality Coord Only June 21, 1993 R&D Library Carol S. Lincoln 407- 64- 3484 SUBMITTED BY: SUBMITTER'S SS#: Date Rec'd QIP Log #1 Status (1993) Keywords (1993) 6/ 21/ 93 93- 0301 SUGGESTION: (Describe Current Situation and Idea) The current system of managing records is too complex. The trend seems to be increasingly specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time adninistering the system, labeling and cleaning our files. Complying is a real burden, both for the individual and for the records coordinators. Describe Possible Solutions And Benefits 1. Drop the category specifications altogether. 2. Use moregeneral categories. hote: I have passed this to Scott Appleton for the task to use in streamlining the records management force program. PROFIT IMPROVEMENT: (If Applicable) RESPOND HERE ☐ Yes ☐ No ☐ Pending Approval Signature/ Date Responder/ Date Sign & Print Names) (See Instructions On Back)
+PREDICTION:
+EVEL.OPMION!
+2076
+--------------------------------------------------------------------------------
+#2
+Group: degraded
+Image: degraded_001.png
+Accuracy: 0.7336757153338258
+CER: 0.9853264856933236
+WER: 1.0
+GROUND TRUTH:
+Brand: Style: PHOENIX Company: Country: Macket: CYPRUS NICOSIA Weights Adhesive: Supplier(s) Color Porosity substance Ecusta E.30639 None (coresta) Type Overall skip Dimension Positioning Swift Other N/A x Date: Date: 620419245 Date: Replaces: 05045 New Page 1 of 10 RESTRICTED BROWN & WILLIAMSON INTERNATIONAL TOBACCO PRODUCT SPECIFICATION HLB- KS B. A. T. CYPRUS Place of Manufacture: Licensee Ref. NO.: CIGARETTE MAKING Physical Characteristics Overall Cigarette Length Tobacco Rod Length Filter Plug Length Filter Plug Pressure Drop (unencap.) Filter Plug Pressure Drop encap. Cigarette Circumference Total Pressure Drop (unencap.) Total Pressure Drop (encap.) Tipping Length Print Position (from filter end) Moisture content (ex-catcher) Filter ventilation Rate 84 mm 64 mm 20 mm 56 mm 56 mm 24.75 mm 90 mm 110 mm 25 mm 27 mm 13.5 % Nil % Total Cigt. Wt. 974 mg 749 mg 245 mg/cc Net Tob. Rod Density Net Net Tobacco Tipping and Tipping Application Tipping Paper: Supplier Code No(s). Imitation Cork Perforation Type and No. of lines Print Description Brown on yellow Bobbin Width Robbin Length 36 gm/ m2 50 mm mm 2700 m (Indicate N/A If Not Applicable) Supplier (s) Supplier Code No (s) T.K. 9220 Printed Imitation cork Application Pattern: Glue Pree Area mm from mouth end mm x mm Prepared by: M. HAMERTON / enm May 1, 1985 Approved by: Director of Technical Operations, Brown & Williamson International Tobacco May 1, 1985 May 1, 1985
+PREDICTION:
+RAATRLARAA
+L20119OES
+--------------------------------------------------------------------------------
+#3
+Group: printed
+Image: printed_003.png
+Accuracy: 13.170726838057313
+CER: 0.764954257565095
+WER: 0.9716312056737588
+GROUND TRUTH:
+SUBJECT: SAMPLE: CIGARETTES: TAR 9.1 NIC .88 MOIST 14.0 MENT .841 PREFERENCE: Bright 39 34 43 35 42 8 9 11 6 8 200 100 100 100 100 ATTRIBUTES: 53+++ 60+++ 46 56+++ 50 (n=) Total Male Female 35+ KL Bright KL Bright KL Bright KL Bright KL Bright 4.51 4.45 4.09** 4.59 4.31*** 3.60** 3.64*** 3.39*** 3.12*** 3.56*** 4.00 3.42 3.73** 3.58*** 4.94 3.04 3.46*** 3.28*** 2.78 3.24 3.96 4.02 3.69*** 3.02 2.78 3.21 3.95 3.99 3.44 2.97* 3.33** 3.70*** 3.47 3.43 4.85 4.71 3.41 5.02 3.06 2.78 3.26 3.96 4.35** 3.61* 3.63*** 3.45*** 3.17*** 3.52*** 4.07** 4.74 3.38 5.31 2.99 2.74 3.07 3.92 4.27 3.58 3.65*** 2.34** 3.08** 3.60* 3.94 4.45 3.46 4.61 2.08 2.82 3.39 3.99 620915734 +/-/* ++/--/** +++/---/*** Attribute scores reflectia a comparison of the test product to the smoker's most often brand NOTE TOP- LINES MENTHOL PRODUCT TEST C273- 82- 7 1982 102KL 1 of 4 PDC # PROJECT # PAGE # KOOL Lights KS vs. Bright KS Product Monitor 408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol Lights / 92 Non- Menthol Ultras) September 13, 1982 FIELD DATE: # 839 / 869 # 369 / 839 KOOL Lights KS- white tip- ping masked .4 4 13. 5 .55 5. 5 masked / a certain proportion of the menthol result is pep- perrront oil; R&D is unable to determine the percentage. Bright KS white tipping- Total Menthol Smokers Total (205) Male (99) Female (106) 21- 34 (96) 35+ 109 KOOL Lights No Preference 21- 34 STRENGTH (7= Stronger) SMOOTHNESS (7= 5moother AMT MENTHOL (7= More) MENTHOL TASTE (7= Better SATISFYING (7= More APTERTASTE (7= Pleasant) EASE OF DRAW 17 Easier Directional Difference: 66 79% confidence Level 80- 94% confidence Level 95+% confidence Level Marginal Difference: Significant Difference:
+PREDICTION:
+PDC H C273-82-7
+TOP-LINES
+PROJECT # 1982-102KL
+MENTHOL PRODUCT TEST
+PAGE # 1f 4.
+SUBJECT:
+KOOL Lights KS vs. Bright KS Product Monitor
+SAMPLE:
+408 {100 Menthol Lights/105 Menthol U1tra, 111 Non-Menthol
+Lights/92 Non-Menthol Ultras)
+FIELD DATE:
+September 13, 1982
+TAR
+NIC
+MOIST
+MENT
+# 839 /
+869
+KOOL Lights KS - white tip-
+9.1
+-88
+14.0
+CIGARETTES:
+.474
+ping masked
+# 869 /
+839
+Bright KS white tipping -
+.5.5
+.55
+13.5
+.841
+masked/a certain proportion of the menthol result is pep-
+permint oil; RaD is unable to determine the percentage.
+Total Menthol Smokers
+Total
+Male
+Female
+21-34
+3.5+
+PREFERENCE:
+(n=)
+(205)
+(99
+(106)
+(96)
+(109)
+KOOL Lights
+53+++
+60+1+
+46
+56+++
+50
+Bright
+39
+34
+43
+35
+42
+No Preference
+8
+6
+11
+9
+8
+100
+100
+100
+100
+100
+ATTRIBUTES:
+Total
+Male
+Female
+21-34
+35+
+KL
+Bright KL
+Bright KL _Bright _KL_ Bright KL._ Brigh
+STRENGTH
+4.31*** 4.59
+4.09**
+4.45 4.51_ 4.71 4.35** 4.74 4.27 4.45
+(7=Stronger)
+SMOOTHNESS
+3.60**
+3.42
+.3.73**
+3.43 3.47 3.41 3.61* 3.38 3.58 3.46
+(7=Smoother)
+AMT. MENTHOL
+3.64*** 4.94
+3.58***
+4.85
+3.70*** 5.02 3.63*** 5.31 3.65***4.61
+(7=More)
+MENTHOL TASTE
+3.39*** 3.04
+3.46***
+3.02
+3.33** 3.06 3.45*** 2.99 2.34** 3.08
+(7=Better)
+SATISFYING
+3.12*** 2.78
+3.28***
+2.78
+2.97*
+2.78 3.17*** 2.74 3.08** 2.82
+(7=More)
+APTERTASTE
+3.56*** 3.24
+(7-Pleasant)
+3.69***
+3.21
+3.44
+3.26 3.52*** 3.07 3.60* 3.39
+CASE OF DRAW
+4.00
+3.96
+4.02
+3.95
+3.99
+3.96 4.07** 3.92 3.94 3.99
+(7=Easier)
+o.
+Attribute_scores reflect a comparison of the test product to_the smoker's most often brand.
++/-/*
+Directional Difference: 66-79% Confidence Level
+++/--/**
+Marginal Difference:
+80-94% Confidence Level
++++/---/*** Significant Difference:
+95+% Confidence Level
+620915734
+--------------------------------------------------------------------------------
+#4
+Group: degraded
+Image: degraded_003.png
+Accuracy: 13.981388593588571
+CER: 0.7522871217452498
+WER: 0.9680851063829788
+GROUND TRUTH:
+SUBJECT: SAMPLE: CIGARETTES: TAR 9.1 NIC .88 MOIST 14.0 MENT .841 PREFERENCE: Bright 39 34 43 35 42 8 9 11 6 8 200 100 100 100 100 ATTRIBUTES: 53+++ 60+++ 46 56+++ 50 (n=) Total Male Female 35+ KL Bright KL Bright KL Bright KL Bright KL Bright 4.51 4.45 4.09** 4.59 4.31*** 3.60** 3.64*** 3.39*** 3.12*** 3.56*** 4.00 3.42 3.73** 3.58*** 4.94 3.04 3.46*** 3.28*** 2.78 3.24 3.96 4.02 3.69*** 3.02 2.78 3.21 3.95 3.99 3.44 2.97* 3.33** 3.70*** 3.47 3.43 4.85 4.71 3.41 5.02 3.06 2.78 3.26 3.96 4.35** 3.61* 3.63*** 3.45*** 3.17*** 3.52*** 4.07** 4.74 3.38 5.31 2.99 2.74 3.07 3.92 4.27 3.58 3.65*** 2.34** 3.08** 3.60* 3.94 4.45 3.46 4.61 2.08 2.82 3.39 3.99 620915734 +/-/* ++/--/** +++/---/*** Attribute scores reflectia a comparison of the test product to the smoker's most often brand NOTE TOP- LINES MENTHOL PRODUCT TEST C273- 82- 7 1982 102KL 1 of 4 PDC # PROJECT # PAGE # KOOL Lights KS vs. Bright KS Product Monitor 408 Menthol Lights / 105 Menthol Ultra, 111 Non- Menthol Lights / 92 Non- Menthol Ultras) September 13, 1982 FIELD DATE: # 839 / 869 # 369 / 839 KOOL Lights KS- white tip- ping masked .4 4 13. 5 .55 5. 5 masked / a certain proportion of the menthol result is pep- perrront oil; R&D is unable to determine the percentage. Bright KS white tipping- Total Menthol Smokers Total (205) Male (99) Female (106) 21- 34 (96) 35+ 109 KOOL Lights No Preference 21- 34 STRENGTH (7= Stronger) SMOOTHNESS (7= 5moother AMT MENTHOL (7= More) MENTHOL TASTE (7= Better SATISFYING (7= More APTERTASTE (7= Pleasant) EASE OF DRAW 17 Easier Directional Difference: 66 79% confidence Level 80- 94% confidence Level 95+% confidence Level Marginal Difference: Significant Difference:
+PREDICTION:
+MENTHOL PPODUCT TEST
+PROJECT # 198221620)
+PAGE:
+SUBJECT
+Koot Lights Ks Ws. aright ks Product Mari tor
+SAMPLE
+408 (100 Menthol rights/ios Merthol utra, 111 nonmnthl
+Lrghts/92 Noo-Menthor vtras)
+FIELD DATE
+Septerher:13, 1982
+TAR
+NIC MOIST MENT
+CIGARETTES
+839869
+Koot Lights, Ks
+ping masked
+# 869 /839 Bright Ks wate tipoing
+masked/a curtain proportin of the menthol resilt is pep
+peniont oil; Rap is jriable to Ceternine the percentege
+ptal:Merthol Snokerig
+PREFERENCE
+Total
+Male
+Female
+21-34
+35
+(205)
+(99)
+{136)}$
+196)
+(1091
+KOOLtights
+53+4
+604
+:46.-
+5614
+50
+u
+No Preference
+1007160
+10p
+T100 100
+TTRIBUT
+Female
+21-34.
+WSEM
+Hhght KBrgt KBrt K Bright K Bn
+STRENITH
+4.31 4.39 1.094 4.46 451471 435474 427 4.45
+(7=Strong
+MOOTHNESS
+3601 3.42 3.75 3.43 3.47 30 361 3.38 352246
+(7-Smoother
+INT..MENTHOL
+3.6* 4.94 3,58 4.8 3,.70- 5.02 5.6304531 2 65411 2.67
+(7-More)
+MENTHOL TASTE
+3.20** 304 346* 3.02 3,33 3.06 3.1517 2.99 3.210 0.08
+(7=Better)
+EATISFYING
+3.12* 2.78 3.284 2.78 2.97 2.76 3.17* 2074 3.00- 2.82
+(7=More)
+AFTERTASTE
+3.56 3.04 3,69 221 3.44 3.26. 3.520 3.02 3.60 2.39
+(7-PIeasant
+ASE OF DRAW
+4.00 3.96 4.02 3.95 3.99 3.6 4.07 3.2 304 .9
+(7=Easier)
+bre sorreflet aamo o te tt groact to the soker's mat dto brad
+Directional Difference 66-7gg Confidence Level
+Marginal.pifferencetB0-94x Contidence:Level
+sigoificant bifterence. 95+x Contidence ievel
+640915734
+--------------------------------------------------------------------------------
+#5
+Group: scene_text
+Image: scene_005.png
+Accuracy: 16.666666666666675
+CER: 0.6666666666666666
+WER: 1.0
+GROUND TRUTH:
+NOW
+PREDICTION:
+MON
+--------------------------------------------------------------------------------
+#6
+Group: handwritten
+Image: handwritten_004.png
+Accuracy: 25.67567567567568
+CER: 0.4864864864864865
+WER: 1.0
+GROUND TRUTH:
+Griffiths, M P for Manchester Exchange .
+PREDICTION:
+Gufs , WP Ror Mancradey Crotange _
+
+--------------------------------------------------------------------------------
+#7
+Group: printed
+Image: printed_001.png
+Accuracy: 28.2899861344986
+CER: 0.6192223037417461
+WER: 0.8149779735682819
+GROUND TRUTH:
+Brand: Style: PHOENIX Company: Country: Macket: CYPRUS NICOSIA Weights Adhesive: Supplier(s) Color Porosity substance Ecusta E.30639 None (coresta) Type Overall skip Dimension Positioning Swift Other N/A x Date: Date: 620419245 Date: Replaces: 05045 New Page 1 of 10 RESTRICTED BROWN & WILLIAMSON INTERNATIONAL TOBACCO PRODUCT SPECIFICATION HLB- KS B. A. T. CYPRUS Place of Manufacture: Licensee Ref. NO.: CIGARETTE MAKING Physical Characteristics Overall Cigarette Length Tobacco Rod Length Filter Plug Length Filter Plug Pressure Drop (unencap.) Filter Plug Pressure Drop encap. Cigarette Circumference Total Pressure Drop (unencap.) Total Pressure Drop (encap.) Tipping Length Print Position (from filter end) Moisture content (ex-catcher) Filter ventilation Rate 84 mm 64 mm 20 mm 56 mm 56 mm 24.75 mm 90 mm 110 mm 25 mm 27 mm 13.5 % Nil % Total Cigt. Wt. 974 mg 749 mg 245 mg/cc Net Tob. Rod Density Net Net Tobacco Tipping and Tipping Application Tipping Paper: Supplier Code No(s). Imitation Cork Perforation Type and No. of lines Print Description Brown on yellow Bobbin Width Robbin Length 36 gm/ m2 50 mm mm 2700 m (Indicate N/A If Not Applicable) Supplier (s) Supplier Code No (s) T.K. 9220 Printed Imitation cork Application Pattern: Glue Pree Area mm from mouth end mm x mm Prepared by: M. HAMERTON / enm May 1, 1985 Approved by: Director of Technical Operations, Brown & Williamson International Tobacco May 1, 1985 May 1, 1985
+PREDICTION:
+RESTRICTED
+Page I of 10
+BROWN & WILLIAMSON INTERNATIONAL TOBACCO
+PRODUCT SPECIPICATION
+Brand:
+PHOENIX
+Company:
+B.A.T. CYPRUS
+Style:
+HLB- KS
+country:
+CYPRUS
+Licensee Ref. No.:
+Market:
+Place of Manufacture: _NICoSIA
+CIGARETTE MAXING
+Physical Characteristics
+Weights
+Overall Cigarette Length
+84
+mm
+Total Cigt. Wt.
+974
+Tobacco Rod Length
+mg
+64
+mm
+Filter Plug Length
+20
+mm
+Net Net Tobacco
+749
+mg
+Filter Plug Pressure Drop (unencap.)
+56
+mm
+Filter Plug Pressure Drop (encap.)
+56
+mm
+Net Tob. Rod Density 245
+mg/cc
+Cigarette Circumference
+24.75mm
+Total Pressure Drop (unencap.)
+90
+mm
+Total Pressure Drop (encap.)
+110
+mm
+Tipping Length
+25
+mm
+Print Position (from filter end)
+27
+mm
+Moisture Content (ex-catcher)
+13.5
+9
+Filter Ventilation Rate
+Nil
+8
+Tipping and Tipping Application
+Tipping Paper:
+Adhesive:
+Supplier(s)
+Ecusta
+Supplier(s)Swift
+Supplier Code No(s).
+E.30639
+Supplier Code No(s). T.K.9220
+Color
+Imitation Cork
+Type Printed Imitation Cork
+Perforation Type
+and No. of lines
+None
+Application Pattern:
+Porosity
+-
+(Coresta)
+overall x
+Skip
+other
+Print Description
+Brown on yellow
+Bobbin Width
+50 mm
+mm
+Glue Pree Area:
+N/A
+Bobbin Length
+2700
+m
+Dimension
+mm
+x
+mum
+Substance
+36
+_gm/m{2}$
+Positioning
+mm from mouth end
+(Indicate N/A If Not Applicable)
+Prepared by:
+M._HAMERTON/enm
+Date:
+May 1, 1985
+Approved by:
+Director of Technical Operations,
+Brown & williamson International
+Date:
+May 1, 1985
+Tobacco
+Replaces:
+New
+Date:
+May 1, 1985
+0504s
+620419245
+--------------------------------------------------------------------------------
+#8
+Group: handwritten
+Image: handwritten_002.png
+Accuracy: 31.081081081081077
+CER: 0.3783783783783784
+WER: 1.0
+GROUND TRUTH:
+nominating any more Labour life Peers
+PREDICTION:
+MOMindI wg AuA wone Labour te Paors
+
+--------------------------------------------------------------------------------
+#9
+Group: dense_text
+Image: dense_001.png
+Accuracy: 36.06638058316136
+CER: 0.5501955671447197
+WER: 0.7284768211920529
+GROUND TRUTH:
+TO: FROM: x SUBJECT: DIVISION: DIVISION: DIVISION: DIVISION: REGION: DIVISION: DIVISION: DIVISION: 225 27 15 31 18 19 20 82200067 09/ 17/ 97 10: 55 603 841 1898 LORILLARD PTLD ☑ 001 K. A. Sparrow T. D. Blachly OLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S PROGRESS REPORT AUG 4 SEP 15 MAY 12 JUN 23 (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION (S) SCOPE) Portland # REPS: 6 Boise # REPS: 2. 5 Eugene # REPS: 5 Seattle South # REPS: 7 Seattle North # REPS: 4 Helena # REPS: 4 DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S NAME OF ACCOUNT VOLUME NO. OF STORES NAME OF ACCOUNT VOLUME NO. OF STORES Texaco Seattle Texaco Portland Maid -O Clover Dari Mart Zip Trip Maverick Astro Gas 105 / 5 61 / 3 20 / 2 125 / 5 106 / 4 77 / 1 600 / 7 Page 1 of 3 Pages
+PREDICTION:
+09/17/97
+10:55
+503 641 1898
+LORILLARD PTLD
+0001
+TO:
+K. A. Sparrow
+FROM:
+T. D. Blachly
+MAY 12
+AUG
+JUN 23
+SEP 15
+X
+SUBJECT:
+ULTRA LIGHTS 1OO'S- PROGRESS REPORT
+AAO
+REGION:
+(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)
+DIVISION:
+DIVISION:
+Partland
+# REPS:
+6
+DIVISION: Seattle South
+# REPS: 7
+DIVISION:
+Boise
+# REPS: 2.5
+DIVISION: SealUe North
+# REPS: 4
+DIVISION:
+Eugene
+0 REPS: 5
+DIVISION: Helena
+# REPS: 4
+CTEDLTEUTONEA
+DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION
+(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 1OO'S
+NAME OEAC!
+VOLUME
+TOR
+Taxaco - Scettle
+105/ 5
+225
+Texaco - Portland
+61/3
+27
+Maid-O-Clover
+20/2
+15
+Darl-Mart
+125/ 5
+31
+Zip Trip
+106 / 4
+18
+Maverick
+77/1
+19
+Astro Gas
+600 / 7
+20
+82200067
+A-1: 06MU9-15.xdc
+Page1 of 3 Pages
+--------------------------------------------------------------------------------
+#10
+Group: scene_text
+Image: scene_003.png
+Accuracy: 40.0
+CER: 0.2
+WER: 1.0
+GROUND TRUTH:
+ENJOY
+PREDICTION:
+Enjol
+--------------------------------------------------------------------------------
