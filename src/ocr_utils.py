@@ -1,6 +1,37 @@
 from pathlib import Path
 import cv2
 import pytesseract
+from paddleocr import PaddleOCR
+
+_PADDLE_OCR = None
+
+
+def get_paddle_ocr():
+    global _PADDLE_OCR
+
+    if _PADDLE_OCR is None:
+        _PADDLE_OCR = PaddleOCR(
+            use_doc_orientation_classify=True,
+            use_doc_unwarping=True,
+            use_textline_orientation=True,
+        )
+
+    return _PADDLE_OCR
+
+
+def extract_text_paddle(image_path):
+    ocr = get_paddle_ocr()
+    results = ocr.predict(str(image_path))
+
+    texts = []
+
+    for page in results:
+        rec_texts = page.get("rec_texts", [])
+        for text in rec_texts:
+            if text and str(text).strip():
+                texts.append(str(text).strip())
+
+    return "\n".join(texts)
 
 
 def extract_text_tesseract(image_path, group_name=None):
