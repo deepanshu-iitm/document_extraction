@@ -1,0 +1,29 @@
+=== OVERALL DATASET INFO ===
+Total rows: 36
+Groups: ['degraded', 'dense_text', 'handwritten', 'printed', 'receipts', 'scene_text']
+
+=== GROUP-WISE SUMMARY ===
+                  cer       wer   accuracy
+group                                     
+receipts     0.089542  0.162524  87.396706
+scene_text   0.177778  0.500000  66.111111
+dense_text   0.292324  0.446680  63.049820
+printed      0.413716  0.579816  50.323377
+handwritten  0.390356  0.835979  38.683245
+degraded     0.601364  0.732768  33.293400
+
+=== TOP 5 BEST SAMPLES ===
+     group      image_file   accuracy      cer      wer
+scene_text   scene_001.png 100.000000 0.000000 0.000000
+scene_text   scene_000.png 100.000000 0.000000 0.000000
+scene_text   scene_002.png 100.000000 0.000000 0.000000
+  receipts receipt_000.png  95.360608 0.033264 0.059524
+  receipts receipt_001.png  93.905392 0.042945 0.078947
+
+=== TOP 5 WORST SAMPLES ===
+     group       image_file  accuracy      cer      wer
+  degraded degraded_005.png  0.647110 0.987058 1.000000
+  degraded degraded_001.png  0.733676 0.985326 1.000000
+   printed  printed_003.png 13.170727 0.764954 0.971631
+  degraded degraded_003.png 13.981389 0.752287 0.968085
+scene_text    scene_005.png 16.666667 0.666667 1.000000
