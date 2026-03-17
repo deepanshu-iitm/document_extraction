@@ -56,9 +56,30 @@ def extract_text_tesseract(image_path, group_name=None):
 
 
 
+from pathlib import Path  # make sure this import is at the top with others
+
+
 def extract_text_hybrid(image_path, group_name=None):
     if group_name in ["handwritten", "receipts"]:
         return extract_text_tesseract(image_path, group_name=group_name)
+
+    if group_name == "printed":
+        image = cv2.imread(str(image_path))
+        if image is None:
+            return extract_text_paddle(image_path)
+
+        gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        gray_2x = cv2.resize(gray, None, fx=2, fy=2, interpolation=cv2.INTER_CUBIC)
+
+        clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+        clahe_2x = clahe.apply(gray_2x)
+
+        tmp_dir = Path("outputs/tmp/printed_paddle")
+        tmp_dir.mkdir(parents=True, exist_ok=True)
+        tmp_path = tmp_dir / (Path(image_path).stem + "_gray2x_clahe.png")
+        cv2.imwrite(str(tmp_path), clahe_2x)
+
+        return extract_text_paddle(tmp_path)
 
     return extract_text_paddle(image_path)
 

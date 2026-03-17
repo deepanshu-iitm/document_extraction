@@ -1,5 +1,5 @@
+Page l of 10
 RESTRICTED
-Page I of 10
 BROWN & WILLIAMSON INTERNATIONAL TOBACCO
 PRODUCT SPECIPICATION
 Brand:
@@ -7,13 +7,15 @@ PHOENIX
 Company:
 B.A.T. CYPRUS
 Style:
-HLB- KS
+HLB
+- KS
 country:
 CYPRUS
-Licensee Ref. No.:
+Licensee Ref, No.:
 Market:
-Place of Manufacture: _NICoSIA
-CIGARETTE MAXING
+Place of Manufacture:
+NICOSIA
+CIGARETTE MAKING
 Physical Characteristics
 Weights
 Overall Cigarette Length
@@ -21,16 +23,16 @@ Overall Cigarette Length
 mm
 Total Cigt. Wt.
 974
+_mg
 Tobacco Rod Length
-mg
 64
-mm
+mr
 Filter Plug Length
 20
 mm
 Net Net Tobacco
 749
-mg
+_mg
 Filter Plug Pressure Drop (unencap.)
 56
 mm
@@ -46,7 +48,7 @@ Total Pressure Drop (unencap.)
 mm
 Total Pressure Drop (encap.)
 110
-mm
+m5
 Tipping Length
 25
 mm
@@ -54,8 +56,8 @@ Print Position (from filter end)
 27
 mm
 Moisture Content (ex-catcher)
-13.5
-9
+S'εT
+8
 Filter Ventilation Rate
 Nil
 8
@@ -64,7 +66,8 @@ Tipping Paper:
 Adhesive:
 Supplier(s)
 Ecusta
-Supplier(s)Swift
+Supplier(s)
+Swift
 Supplier Code No(s).
 E.30639
 Supplier Code No(s). T.K.9220
@@ -76,33 +79,32 @@ and No. of lines
 None
 Application Pattern:
 Porosity
--
 (Coresta)
-overall x
-Skip
-other
+Overall
+x
+Skip.
+Other
 Print Description
 Brown on yellow
 Bobbin Width
 50 mm
 mm
-Glue Pree Area:
-N/A
+Glue Pree Area: N/A
 Bobbin Length
 2700
 m
 Dimension
 mm
 x
-mum
+mm
 Substance
 36
-_gm/m{2}$
+_gm/m^{2$
 Positioning
 mm from mouth end
-(Indicate N/A If Not Applicable)
+(Indicate N/a If Not Applicable)
 Prepared by:
-M._HAMERTON/enm
+M. HAMERTON / enm
 Date:
 May 1, 1985
 Approved by:

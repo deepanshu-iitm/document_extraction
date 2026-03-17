@@ -1,4 +1,4 @@
-overall_cer: 0.3291551047299419
-overall_wer: 0.5469294108827766
-overall_accuracy: 56.195774219364075
+overall_cer: 0.32718154141188266
+overall_wer: 0.5416532559990789
+overall_accuracy: 56.55826012945192
 total_images: 36

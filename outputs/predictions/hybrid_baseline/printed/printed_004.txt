@@ -1,17 +1,17 @@
 Reconstituted Tobacco Leaf Substitutions
 B&W
 Export Formulas
-Revision Date: 05/11/95
+Revision Date: 05/1 1/95
 Allowable Grade Substitutions
 for Export CPCL
 Standard Grade Mark
 Allowable Substitutions
 PCFS
 Flue cured fines
-RPCFS or RPCFS-O
+RPCFS or RPCFS-0
 PCBS
 Burley fines
-RPCBS or RPCBS-O
+RPCBS or RPCBS-0
 WCC
 MC-4
 Manufacturing fines
@@ -22,12 +22,14 @@ MC-4-W
 MC-6
 Stem Meal
 MC-1
+-
 MC-7
 Winnowers
 C Stem
 RXF
 Fine flue cured stem
-RRXF or RRXF-0
+RRXF or
+RRXF-O
 RRXM-B
 RRXM-T
 RBF
