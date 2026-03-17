@@ -6,4 +6,4 @@ pandas
 tqdm
 paddleocr
 paddlepaddle==3.2.2
-wordfreq
+

@@ -2,6 +2,7 @@ import cv2
 import pytesseract
 from paddleocr import PaddleOCR
 
+
 _PADDLE_OCR = None
 
 
