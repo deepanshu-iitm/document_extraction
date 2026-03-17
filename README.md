@@ -97,9 +97,7 @@ All metrics follow the assignment’s provided code and are implemented in `src/
 - **WER (Word Error Rate)** using `jiwer.wer`.
 - **Combined Accuracy**:
 
-\[
-\text{Accuracy} = \left(1 - \frac{\text{CER} + \text{WER}}{2}\right) \times 100
-\]
+Accuracy = (1 − (CER + WER) / 2) × 100
 
 These functions are used consistently by all pipelines.
 
