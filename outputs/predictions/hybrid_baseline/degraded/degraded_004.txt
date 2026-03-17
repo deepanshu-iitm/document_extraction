@@ -1,38 +1,35 @@
-Reconsunice Tobacco Leal Sobsltutinns
-Export Fommalos
-BoW
-Rovision Dote: 05/11/95
+'
+Reconstitnred Tobacce Leaf Sabstitutions
+Export Formalas
+Rovision Date: 05/11/95
 Allowable Grade Substitutions
 for Export CPCL
 Standard Grade Mark
 Allowable Substitutions
 PCFS
-Flue cured fines
+Flue curred fines
 RPCFS or RPCFS-0
 PCBS
-Burley fines
+Burfey fines
 RPCBS or RPCBS-O
-wCc
-MC4
-Manufacturing fines
-MC-4-S
-MC 4-PH
-MC-4-RC
+WCC
+MC-4 Manuifacturing fines
+SvOW
+HO-DW
+MORRE
 MC-4-W
 MC-6
 Stem Meal
 MC-1
-MC-7
+ZOW
 Winnowers
 C Stern
-RXF
-Pine flue cured stem
+RXF Fine flue cured stem
 RRXF or RRXF-0
 RRXM-B
 RRXM-T
-RBF
-Fine Burely stem
-RRBF or RRBF-O
-RR8-8
-RRB-L
+RBF Fine Burely stem
+RRBF or RRBF-0
+RRB-8
+RR88
 RRB-T
