@@ -54,8 +54,10 @@ def extract_text_tesseract(image_path, group_name=None):
     return pytesseract.image_to_string(resized, lang="eng", config=config)
 
 
+
 def extract_text_hybrid(image_path, group_name=None):
     if group_name in ["handwritten", "receipts"]:
         return extract_text_tesseract(image_path, group_name=group_name)
 
     return extract_text_paddle(image_path)
+

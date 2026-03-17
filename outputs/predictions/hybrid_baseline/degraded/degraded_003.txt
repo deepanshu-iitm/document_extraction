@@ -1,73 +1,79 @@
-MENTHOL PPODUCT TEST
-PROJECT # 198221620)
-PAGE:
+MENTHOL PRODIET TEST
+PROJECT *1982-1020
+PAGE 16E4
 SUBJECT
-Koot Lights Ks Ws. aright ks Product Mari tor
-SAMPLE
-408 (100 Menthol rights/ios Merthol utra, 111 nonmnthl
-Lrghts/92 Noo-Menthor vtras)
+KopL Lights Ks ys. aright Ks Product Maui tor
+SAMPL
+408 (100 venthol rigne/105 ethol utra, 11 nonMenihl
+Lsghts/92 Noo-Menithol ixtras).
 FIELD DATE
-Septerher:13, 1982
+Septerher:13, 1982.
+CICAKTE 09/ 2 00 L 1 p
+MOTST MENT
 TAR
-NIC MOIST MENT
-CIGARETTES
-839869
-Koot Lights, Ks
-ping masked
-# 869 /839 Bright Ks wate tipoing
-masked/a curtain proportin of the menthol resilt is pep
-peniont oil; Rap is jriable to Ceternine the percentege
-ptal:Merthol Snokerig
+NIC
+9.1
+89
+pind basked
+869 / 839 bright Ks wate tipping
+13.55
+.841
+iasked/a cdrtain proportion of the menthol resilt is. pep
+pernu.nt oil; RaD is inable to Ceternine the percentage.
+Iotal:Menthol Snpkerg
 PREFERENCE
-Total
+Totar
 Male
 Female
 21-34
-35
-(205)
-(99)
-{136)}$
-196)
+(205
+1993
+(136)
+196).
 (1091
-KOOLtights
-53+4
-604
-:46.-
-5614
+601465614
 50
-u
+KOOLAighEs.
+53+4
+Bright
+39
+A2
 No Preference
-1007160
-10p
-T100 100
-TTRIBUT
-Female
-21-34.
-WSEM
-Hhght KBrgt KBrt K Bright K Bn
-STRENITH
-4.31 4.39 1.094 4.46 451471 435474 427 4.45
-(7=Strong
-MOOTHNESS
-3601 3.42 3.75 3.43 3.47 30 361 3.38 352246
-(7-Smoother
-INT..MENTHOL
-3.6* 4.94 3,58 4.8 3,.70- 5.02 5.6304531 2 65411 2.67
+:n
+8
+100.
+100100
+100
+16o
+TRIBUTES
+:354
+potar
+Bhgh Karig Kbrt KBrightK Bn
+STRENGTH
+4.31 4.39 1.00 6.48 4 471 4.35 4.7 4.27 4.45
+(7-Stronger)
+MCOTHNESS
+0.501 3.42 3.730 3.43 3.47 30, 26143.38 352 2.06.
+(Y-Smoother}
+MT.MENTHOL
+3.644.94 3,58 4.05, 3.70 5.02 1.650 5.31 26502.67
 (7-More)
-MENTHOL TASTE
-3.20** 304 346* 3.02 3,33 3.06 3.1517 2.99 3.210 0.08
+MENTIOL TASTE
+3.20* 3.04 3.46* 3.02 3,3 3.06 3.45172.99 2340 0.06
 (7=Better)
-EATISFYING
-3.12* 2.78 3.284 2.78 2.97 2.76 3.17* 2074 3.00- 2.82
-(7=More)
+3.128 2.78 3.20 2.78 2.97* 2.76 3.1722.74 2.00 2.2
+SATISFYING
+:(7-More)
 AFTERTASTE
-3.56 3.04 3,69 221 3.44 3.26. 3.520 3.02 3.60 2.39
-(7-PIeasant
+2.56 3.21 3.60 221 3.44 3.26 3.524 3.02 3.6 2.39
+(7-PIeasant)
 ASE OF DRAW
-4.00 3.96 4.02 3.95 3.99 3.6 4.07 3.2 304 .9
-(7=Easier)
-bre sorreflet aamo o te tt groact to the soker's mat dto brad
-Directional Difference 66-7gg Confidence Level
-Marginal.pifferencetB0-94x Contidence:Level
-sigoificant bifterence. 95+x Contidence ievel
+4.00 3.96 4.02 9.9 3.99 3.96 4.070 2.92 204 2.99
+(7eEasior)
+Directional Differences 66-79g Confidence Level
+Marginal Difference:
+twetaauap13uon.X56-0e:
+**/--1*
+Sigoificant bifterence: 95+% Contidence ievel
 640915734
+5
