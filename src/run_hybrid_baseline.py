@@ -1,9 +1,8 @@
 from pathlib import Path
 import pandas as pd
 from tqdm import tqdm
-from paddleocr import PaddleOCR
-from ocr_utils import extract_text_tesseract
 
+from ocr_utils import extract_text_hybrid
 from evaluate import compute_cer, compute_wer, compute_accuracy
 
 DATA_ROOT = Path("data/raw")
@@ -18,33 +17,6 @@ GROUPS = [
     "receipts",
     "scene_text",
 ]
-
-ocr = PaddleOCR(
-    use_textline_orientation=True,
-    lang="en",
-)
-
-
-def extract_text_paddle(image_path):
-    try:
-        result = ocr.predict(str(image_path))
-        lines = []
-
-        for page in result:
-            if hasattr(page, "get"):
-                texts = page.get("rec_texts", [])
-                lines.extend(texts)
-
-        return "\n".join(lines).strip()
-    except Exception as e:
-        print(f"[ERROR] PaddleOCR failed on {image_path}: {e}")
-        return ""
-
-
-def extract_text_hybrid(image_path, group):
-    if group in ["handwritten", "receipts"]:
-        return extract_text_tesseract(image_path, group_name=group)
-    return extract_text_paddle(image_path)
 
 
 def read_text_file(txt_path):
@@ -72,7 +44,7 @@ def main():
 
         print(f"\nProcessing group: {group} ({len(image_paths)} images)")
 
-        for image_path in tqdm(image_paths, desc=f"{group}"):
+        for image_path in tqdm(image_paths, desc=group):
             stem = image_path.stem
             gt_path = group_gt_dir / f"{stem}.txt"
 
@@ -80,7 +52,7 @@ def main():
                 print(f"WARNING: Missing ground truth for {image_path.name}")
                 continue
 
-            prediction = extract_text_hybrid(image_path, group)
+            prediction = extract_text_hybrid(image_path, group_name=group)
             reference = read_text_file(gt_path)
 
             cer_value = compute_cer(prediction, reference)
