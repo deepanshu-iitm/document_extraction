@@ -14,7 +14,6 @@ env/
 # OS / editor files
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 
 # Logs
@@ -31,4 +30,5 @@ dist/
 *.egg-info/
 
 # Environment files
-.env
+config.bat
+node_modules
