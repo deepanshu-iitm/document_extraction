@@ -30,5 +30,10 @@ dist/
 *.egg-info/
 
 # Environment files
-config.bat
 node_modules
+
+.env
+.env.*
+!.env.example
+.vscode/
+node_modules/
